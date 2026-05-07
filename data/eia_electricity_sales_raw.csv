@@ -1,0 +1,1511 @@
+period,stateid,stateDescription,sectorid,sectorName,sales,sales-units
+2001-01,US,U.S. Total,ALL,all sectors,310816.0688,million kilowatt hours
+2001-01,US,U.S. Total,COM,commercial,90825.27235,million kilowatt hours
+2001-01,US,U.S. Total,IND,industrial,83477.36044,million kilowatt hours
+2001-01,US,U.S. Total,RES,residential,127065.78354,million kilowatt hours
+2001-01,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2001-02,US,U.S. Total,ALL,all sectors,272334.73804,million kilowatt hours
+2001-02,US,U.S. Total,COM,commercial,81466.85778,million kilowatt hours
+2001-02,US,U.S. Total,IND,industrial,82248.23193,million kilowatt hours
+2001-02,US,U.S. Total,RES,residential,99877.67304,million kilowatt hours
+2001-02,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2001-03,US,U.S. Total,ALL,all sectors,269298.40142,million kilowatt hours
+2001-03,US,U.S. Total,COM,commercial,84064.24963,million kilowatt hours
+2001-03,US,U.S. Total,IND,industrial,83521.51752,million kilowatt hours
+2001-03,US,U.S. Total,RES,residential,92804.58576,million kilowatt hours
+2001-03,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2001-04,US,U.S. Total,ALL,all sectors,254390.93545,million kilowatt hours
+2001-04,US,U.S. Total,COM,commercial,81060.53414,million kilowatt hours
+2001-04,US,U.S. Total,IND,industrial,82253.07658,million kilowatt hours
+2001-04,US,U.S. Total,RES,residential,82453.7826,million kilowatt hours
+2001-04,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2001-05,US,U.S. Total,ALL,all sectors,264490.49166,million kilowatt hours
+2001-05,US,U.S. Total,COM,commercial,87470.74429,million kilowatt hours
+2001-05,US,U.S. Total,IND,industrial,86096.5808,million kilowatt hours
+2001-05,US,U.S. Total,RES,residential,81731.15295,million kilowatt hours
+2001-05,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2001-06,US,U.S. Total,ALL,all sectors,290008.13859,million kilowatt hours
+2001-06,US,U.S. Total,COM,commercial,95658.29115,million kilowatt hours
+2001-06,US,U.S. Total,IND,industrial,85268.86123,million kilowatt hours
+2001-06,US,U.S. Total,RES,residential,99407.29496,million kilowatt hours
+2001-06,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2001-07,US,U.S. Total,ALL,all sectors,315798.05444,million kilowatt hours
+2001-07,US,U.S. Total,COM,commercial,102156.27207,million kilowatt hours
+2001-07,US,U.S. Total,IND,industrial,83175.56383,million kilowatt hours
+2001-07,US,U.S. Total,RES,residential,120707.42753,million kilowatt hours
+2001-07,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2001-08,US,U.S. Total,ALL,all sectors,332192.65242,million kilowatt hours
+2001-08,US,U.S. Total,COM,commercial,105621.93345,million kilowatt hours
+2001-08,US,U.S. Total,IND,industrial,86797.43767,million kilowatt hours
+2001-08,US,U.S. Total,RES,residential,129205.36178,million kilowatt hours
+2001-08,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2001-09,US,U.S. Total,ALL,all sectors,295925.25273,million kilowatt hours
+2001-09,US,U.S. Total,COM,commercial,96704.45191,million kilowatt hours
+2001-09,US,U.S. Total,IND,industrial,82631.49485,million kilowatt hours
+2001-09,US,U.S. Total,RES,residential,105943.19324,million kilowatt hours
+2001-09,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2001-10,US,U.S. Total,ALL,all sectors,267558.79557,million kilowatt hours
+2001-10,US,U.S. Total,COM,commercial,89377.68751,million kilowatt hours
+2001-10,US,U.S. Total,IND,industrial,83144.74635,million kilowatt hours
+2001-10,US,U.S. Total,RES,residential,85419.58912,million kilowatt hours
+2001-10,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2001-11,US,U.S. Total,ALL,all sectors,253033.66362,million kilowatt hours
+2001-11,US,U.S. Total,COM,commercial,83226.30009,million kilowatt hours
+2001-11,US,U.S. Total,IND,industrial,79913.67998,million kilowatt hours
+2001-11,US,U.S. Total,RES,residential,80806.69409,million kilowatt hours
+2001-11,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2001-12,US,U.S. Total,ALL,all sectors,268610.91126,million kilowatt hours
+2001-12,US,U.S. Total,COM,commercial,85435.92163,million kilowatt hours
+2001-12,US,U.S. Total,IND,industrial,78080.75882,million kilowatt hours
+2001-12,US,U.S. Total,RES,residential,96184.05438,million kilowatt hours
+2001-12,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2002-01,US,U.S. Total,ALL,all sectors,290967.48001,million kilowatt hours
+2002-01,US,U.S. Total,COM,commercial,87428.63989,million kilowatt hours
+2002-01,US,U.S. Total,IND,industrial,78240.27931,million kilowatt hours
+2002-01,US,U.S. Total,RES,residential,116891.8012,million kilowatt hours
+2002-01,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2002-02,US,U.S. Total,ALL,all sectors,263728.26311,million kilowatt hours
+2002-02,US,U.S. Total,COM,commercial,80951.19992,million kilowatt hours
+2002-02,US,U.S. Total,IND,industrial,78059.42958,million kilowatt hours
+2002-02,US,U.S. Total,RES,residential,96592.93277,million kilowatt hours
+2002-02,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2002-03,US,U.S. Total,ALL,all sectors,267459.80047,million kilowatt hours
+2002-03,US,U.S. Total,COM,commercial,83544.91242,million kilowatt hours
+2002-03,US,U.S. Total,IND,industrial,80461.22004,million kilowatt hours
+2002-03,US,U.S. Total,RES,residential,95318.66735,million kilowatt hours
+2002-03,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2002-04,US,U.S. Total,ALL,all sectors,257946.37508,million kilowatt hours
+2002-04,US,U.S. Total,COM,commercial,83619.00093,million kilowatt hours
+2002-04,US,U.S. Total,IND,industrial,80750.45469,million kilowatt hours
+2002-04,US,U.S. Total,RES,residential,85407.60661,million kilowatt hours
+2002-04,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2002-05,US,U.S. Total,ALL,all sectors,269323.29396,million kilowatt hours
+2002-05,US,U.S. Total,COM,commercial,88974.19272,million kilowatt hours
+2002-05,US,U.S. Total,IND,industrial,84459.89797,million kilowatt hours
+2002-05,US,U.S. Total,RES,residential,87318.53904,million kilowatt hours
+2002-05,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2002-06,US,U.S. Total,ALL,all sectors,296469.77249,million kilowatt hours
+2002-06,US,U.S. Total,COM,commercial,95903.30254,million kilowatt hours
+2002-06,US,U.S. Total,IND,industrial,84386.74446,million kilowatt hours
+2002-06,US,U.S. Total,RES,residential,107169.9945,million kilowatt hours
+2002-06,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2002-07,US,U.S. Total,ALL,all sectors,337284.67683,million kilowatt hours
+2002-07,US,U.S. Total,COM,commercial,105985.52252,million kilowatt hours
+2002-07,US,U.S. Total,IND,industrial,88122.97085,million kilowatt hours
+2002-07,US,U.S. Total,RES,residential,133694.80084,million kilowatt hours
+2002-07,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2002-08,US,U.S. Total,ALL,all sectors,338114.51829,million kilowatt hours
+2002-08,US,U.S. Total,COM,commercial,105819.30677,million kilowatt hours
+2002-08,US,U.S. Total,IND,industrial,88264.59938,million kilowatt hours
+2002-08,US,U.S. Total,RES,residential,134332.46833,million kilowatt hours
+2002-08,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2002-09,US,U.S. Total,ALL,all sectors,310497.88323,million kilowatt hours
+2002-09,US,U.S. Total,COM,commercial,100808.79734,million kilowatt hours
+2002-09,US,U.S. Total,IND,industrial,84346.26466,million kilowatt hours
+2002-09,US,U.S. Total,RES,residential,115833.03265,million kilowatt hours
+2002-09,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2002-10,US,U.S. Total,ALL,all sectors,284177.96223,million kilowatt hours
+2002-10,US,U.S. Total,COM,commercial,96312.65137,million kilowatt hours
+2002-10,US,U.S. Total,IND,industrial,83984.28641,million kilowatt hours
+2002-10,US,U.S. Total,RES,residential,94531.34312,million kilowatt hours
+2002-10,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2002-11,US,U.S. Total,ALL,all sectors,263033.58918,million kilowatt hours
+2002-11,US,U.S. Total,COM,commercial,86095.43524,million kilowatt hours
+2002-11,US,U.S. Total,IND,industrial,79705.57975,million kilowatt hours
+2002-11,US,U.S. Total,RES,residential,88822.30318,million kilowatt hours
+2002-11,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2002-12,US,U.S. Total,ALL,all sectors,286462.39615,million kilowatt hours
+2002-12,US,U.S. Total,COM,commercial,89053.64535,million kilowatt hours
+2002-12,US,U.S. Total,IND,industrial,79455.90389,million kilowatt hours
+2002-12,US,U.S. Total,RES,residential,109266.37941,million kilowatt hours
+2002-12,US,U.S. Total,TRA,transportation,,million kilowatt hours
+2003-01,US,U.S. Total,ALL,all sectors,304262.59845,million kilowatt hours
+2003-01,US,U.S. Total,COM,commercial,98557.46847,million kilowatt hours
+2003-01,US,U.S. Total,IND,industrial,80828.12943,million kilowatt hours
+2003-01,US,U.S. Total,RES,residential,124272.7877,million kilowatt hours
+2003-01,US,U.S. Total,TRA,transportation,604.21285,million kilowatt hours
+2003-02,US,U.S. Total,ALL,all sectors,282239.57466,million kilowatt hours
+2003-02,US,U.S. Total,COM,commercial,91238.91884,million kilowatt hours
+2003-02,US,U.S. Total,IND,industrial,79516.56963,million kilowatt hours
+2003-02,US,U.S. Total,RES,residential,110937.36996,million kilowatt hours
+2003-02,US,U.S. Total,TRA,transportation,546.71623,million kilowatt hours
+2003-03,US,U.S. Total,ALL,all sectors,274473.4193,million kilowatt hours
+2003-03,US,U.S. Total,COM,commercial,92579.67309,million kilowatt hours
+2003-03,US,U.S. Total,IND,industrial,81758.33458,million kilowatt hours
+2003-03,US,U.S. Total,RES,residential,99561.31168,million kilowatt hours
+2003-03,US,U.S. Total,TRA,transportation,574.09995,million kilowatt hours
+2003-04,US,U.S. Total,ALL,all sectors,256709.98509,million kilowatt hours
+2003-04,US,U.S. Total,COM,commercial,89684.69152,million kilowatt hours
+2003-04,US,U.S. Total,IND,industrial,83057.62224,million kilowatt hours
+2003-04,US,U.S. Total,RES,residential,83448.24421,million kilowatt hours
+2003-04,US,U.S. Total,TRA,transportation,519.42712,million kilowatt hours
+2003-05,US,U.S. Total,ALL,all sectors,268788.0908,million kilowatt hours
+2003-05,US,U.S. Total,COM,commercial,95818.83157,million kilowatt hours
+2003-05,US,U.S. Total,IND,industrial,84619.16494,million kilowatt hours
+2003-05,US,U.S. Total,RES,residential,87804.37208,million kilowatt hours
+2003-05,US,U.S. Total,TRA,transportation,545.7222,million kilowatt hours
+2003-06,US,U.S. Total,ALL,all sectors,290449.88234,million kilowatt hours
+2003-06,US,U.S. Total,COM,commercial,102407.24564,million kilowatt hours
+2003-06,US,U.S. Total,IND,industrial,86209.83273,million kilowatt hours
+2003-06,US,U.S. Total,RES,residential,101285.79246,million kilowatt hours
+2003-06,US,U.S. Total,TRA,transportation,547.01152,million kilowatt hours
+2003-07,US,U.S. Total,ALL,all sectors,334208.69307,million kilowatt hours
+2003-07,US,U.S. Total,COM,commercial,115232.9169,million kilowatt hours
+2003-07,US,U.S. Total,IND,industrial,87732.30375,million kilowatt hours
+2003-07,US,U.S. Total,RES,residential,130673.85672,million kilowatt hours
+2003-07,US,U.S. Total,TRA,transportation,569.6157,million kilowatt hours
+2003-08,US,U.S. Total,ALL,all sectors,341819.27853,million kilowatt hours
+2003-08,US,U.S. Total,COM,commercial,116224.46136,million kilowatt hours
+2003-08,US,U.S. Total,IND,industrial,90536.24056,million kilowatt hours
+2003-08,US,U.S. Total,RES,residential,134467.79929,million kilowatt hours
+2003-08,US,U.S. Total,TRA,transportation,590.77732,million kilowatt hours
+2003-09,US,U.S. Total,ALL,all sectors,306589.90447,million kilowatt hours
+2003-09,US,U.S. Total,COM,commercial,106472.70316,million kilowatt hours
+2003-09,US,U.S. Total,IND,industrial,85681.98834,million kilowatt hours
+2003-09,US,U.S. Total,RES,residential,113848.98343,million kilowatt hours
+2003-09,US,U.S. Total,TRA,transportation,586.22955,million kilowatt hours
+2003-10,US,U.S. Total,ALL,all sectors,277380.21575,million kilowatt hours
+2003-10,US,U.S. Total,COM,commercial,100036.26335,million kilowatt hours
+2003-10,US,U.S. Total,IND,industrial,86981.71286,million kilowatt hours
+2003-10,US,U.S. Total,RES,residential,89780.85959,million kilowatt hours
+2003-10,US,U.S. Total,TRA,transportation,581.37995,million kilowatt hours
+2003-11,US,U.S. Total,ALL,all sectors,262976.70136,million kilowatt hours
+2003-11,US,U.S. Total,COM,commercial,92604.74302,million kilowatt hours
+2003-11,US,U.S. Total,IND,industrial,83163.82929,million kilowatt hours
+2003-11,US,U.S. Total,RES,residential,86658.68148,million kilowatt hours
+2003-11,US,U.S. Total,TRA,transportation,549.44757,million kilowatt hours
+2003-12,US,U.S. Total,ALL,all sectors,293836.14216,million kilowatt hours
+2003-12,US,U.S. Total,COM,commercial,97869.68409,million kilowatt hours
+2003-12,US,U.S. Total,IND,industrial,82287.51865,million kilowatt hours
+2003-12,US,U.S. Total,RES,residential,113083.8514,million kilowatt hours
+2003-12,US,U.S. Total,TRA,transportation,595.08803,million kilowatt hours
+2004-01,US,U.S. Total,ALL,all sectors,307856.46486,million kilowatt hours
+2004-01,US,U.S. Total,COM,commercial,99281.10271,million kilowatt hours
+2004-01,US,U.S. Total,IND,industrial,80823.03868,million kilowatt hours
+2004-01,US,U.S. Total,RES,residential,127121.38323,million kilowatt hours
+2004-01,US,U.S. Total,TRA,transportation,630.94024,million kilowatt hours
+2004-02,US,U.S. Total,ALL,all sectors,286433.35172,million kilowatt hours
+2004-02,US,U.S. Total,COM,commercial,93677.46255,million kilowatt hours
+2004-02,US,U.S. Total,IND,industrial,79667.52545,million kilowatt hours
+2004-02,US,U.S. Total,RES,residential,112464.05547,million kilowatt hours
+2004-02,US,U.S. Total,TRA,transportation,624.30825,million kilowatt hours
+2004-03,US,U.S. Total,ALL,all sectors,278181.55766,million kilowatt hours
+2004-03,US,U.S. Total,COM,commercial,95330.87993,million kilowatt hours
+2004-03,US,U.S. Total,IND,industrial,83327.52686,million kilowatt hours
+2004-03,US,U.S. Total,RES,residential,98947.20745,million kilowatt hours
+2004-03,US,U.S. Total,TRA,transportation,575.94342,million kilowatt hours
+2004-04,US,U.S. Total,ALL,all sectors,262850.98943,million kilowatt hours
+2004-04,US,U.S. Total,COM,commercial,93531.82545,million kilowatt hours
+2004-04,US,U.S. Total,IND,industrial,83369.26145,million kilowatt hours
+2004-04,US,U.S. Total,RES,residential,85376.86512,million kilowatt hours
+2004-04,US,U.S. Total,TRA,transportation,573.03741,million kilowatt hours
+2004-05,US,U.S. Total,ALL,all sectors,279035.82591,million kilowatt hours
+2004-05,US,U.S. Total,COM,commercial,100879.28578,million kilowatt hours
+2004-05,US,U.S. Total,IND,industrial,86988.35388,million kilowatt hours
+2004-05,US,U.S. Total,RES,residential,90598.21162,million kilowatt hours
+2004-05,US,U.S. Total,TRA,transportation,569.97463,million kilowatt hours
+2004-06,US,U.S. Total,ALL,all sectors,307772.35889,million kilowatt hours
+2004-06,US,U.S. Total,COM,commercial,108122.25804,million kilowatt hours
+2004-06,US,U.S. Total,IND,industrial,86732.2516,million kilowatt hours
+2004-06,US,U.S. Total,RES,residential,112335.13296,million kilowatt hours
+2004-06,US,U.S. Total,TRA,transportation,582.71629,million kilowatt hours
+2004-07,US,U.S. Total,ALL,all sectors,333907.04358,million kilowatt hours
+2004-07,US,U.S. Total,COM,commercial,115495.42265,million kilowatt hours
+2004-07,US,U.S. Total,IND,industrial,88479.4439,million kilowatt hours
+2004-07,US,U.S. Total,RES,residential,129305.34718,million kilowatt hours
+2004-07,US,U.S. Total,TRA,transportation,626.82985,million kilowatt hours
+2004-08,US,U.S. Total,ALL,all sectors,330926.52841,million kilowatt hours
+2004-08,US,U.S. Total,COM,commercial,114452.49394,million kilowatt hours
+2004-08,US,U.S. Total,IND,industrial,89440.28164,million kilowatt hours
+2004-08,US,U.S. Total,RES,residential,126423.33984,million kilowatt hours
+2004-08,US,U.S. Total,TRA,transportation,610.41299,million kilowatt hours
+2004-09,US,U.S. Total,ALL,all sectors,308565.83256,million kilowatt hours
+2004-09,US,U.S. Total,COM,commercial,109595.29408,million kilowatt hours
+2004-09,US,U.S. Total,IND,industrial,86018.95583,million kilowatt hours
+2004-09,US,U.S. Total,RES,residential,112337.69377,million kilowatt hours
+2004-09,US,U.S. Total,TRA,transportation,613.88888,million kilowatt hours
+2004-10,US,U.S. Total,ALL,all sectors,281736.72461,million kilowatt hours
+2004-10,US,U.S. Total,COM,commercial,102325.83477,million kilowatt hours
+2004-10,US,U.S. Total,IND,industrial,85345.79182,million kilowatt hours
+2004-10,US,U.S. Total,RES,residential,93466.16898,million kilowatt hours
+2004-10,US,U.S. Total,TRA,transportation,598.92905,million kilowatt hours
+2004-11,US,U.S. Total,ALL,all sectors,270162.92777,million kilowatt hours
+2004-11,US,U.S. Total,COM,commercial,95752.66477,million kilowatt hours
+2004-11,US,U.S. Total,IND,industrial,84190.55194,million kilowatt hours
+2004-11,US,U.S. Total,RES,residential,89649.74085,million kilowatt hours
+2004-11,US,U.S. Total,TRA,transportation,569.97022,million kilowatt hours
+2004-12,US,U.S. Total,ALL,all sectors,300049.8776,million kilowatt hours
+2004-12,US,U.S. Total,COM,commercial,101980.20633,million kilowatt hours
+2004-12,US,U.S. Total,IND,industrial,83466.54896,million kilowatt hours
+2004-12,US,U.S. Total,RES,residential,113956.43153,million kilowatt hours
+2004-12,US,U.S. Total,TRA,transportation,646.69078,million kilowatt hours
+2005-01,US,U.S. Total,ALL,all sectors,309078.80863,million kilowatt hours
+2005-01,US,U.S. Total,COM,commercial,100862.15018,million kilowatt hours
+2005-01,US,U.S. Total,IND,industrial,82241.65015,million kilowatt hours
+2005-01,US,U.S. Total,RES,residential,125287.85857,million kilowatt hours
+2005-01,US,U.S. Total,TRA,transportation,687.14973,million kilowatt hours
+2005-02,US,U.S. Total,ALL,all sectors,279513.81952,million kilowatt hours
+2005-02,US,U.S. Total,COM,commercial,93256.63986,million kilowatt hours
+2005-02,US,U.S. Total,IND,industrial,78935.0384,million kilowatt hours
+2005-02,US,U.S. Total,RES,residential,106666.9134,million kilowatt hours
+2005-02,US,U.S. Total,TRA,transportation,655.22785,million kilowatt hours
+2005-03,US,U.S. Total,ALL,all sectors,286791.11859,million kilowatt hours
+2005-03,US,U.S. Total,COM,commercial,98923.67621,million kilowatt hours
+2005-03,US,U.S. Total,IND,industrial,83184.68973,million kilowatt hours
+2005-03,US,U.S. Total,RES,residential,104065.20308,million kilowatt hours
+2005-03,US,U.S. Total,TRA,transportation,617.54956,million kilowatt hours
+2005-04,US,U.S. Total,ALL,all sectors,264167.93607,million kilowatt hours
+2005-04,US,U.S. Total,COM,commercial,94439.49428,million kilowatt hours
+2005-04,US,U.S. Total,IND,industrial,82389.30273,million kilowatt hours
+2005-04,US,U.S. Total,RES,residential,86749.1599,million kilowatt hours
+2005-04,US,U.S. Total,TRA,transportation,589.97914,million kilowatt hours
+2005-05,US,U.S. Total,ALL,all sectors,273500.25066,million kilowatt hours
+2005-05,US,U.S. Total,COM,commercial,99701.62451,million kilowatt hours
+2005-05,US,U.S. Total,IND,industrial,85852.13193,million kilowatt hours
+2005-05,US,U.S. Total,RES,residential,87384.11153,million kilowatt hours
+2005-05,US,U.S. Total,TRA,transportation,562.38269,million kilowatt hours
+2005-06,US,U.S. Total,ALL,all sectors,319380.92267,million kilowatt hours
+2005-06,US,U.S. Total,COM,commercial,114100.72922,million kilowatt hours
+2005-06,US,U.S. Total,IND,industrial,88032.96775,million kilowatt hours
+2005-06,US,U.S. Total,RES,residential,116627.43754,million kilowatt hours
+2005-06,US,U.S. Total,TRA,transportation,619.78816,million kilowatt hours
+2005-07,US,U.S. Total,ALL,all sectors,355514.13892,million kilowatt hours
+2005-07,US,U.S. Total,COM,commercial,122037.03201,million kilowatt hours
+2005-07,US,U.S. Total,IND,industrial,88385.72227,million kilowatt hours
+2005-07,US,U.S. Total,RES,residential,144476.33645,million kilowatt hours
+2005-07,US,U.S. Total,TRA,transportation,615.04819,million kilowatt hours
+2005-08,US,U.S. Total,ALL,all sectors,362543.68518,million kilowatt hours
+2005-08,US,U.S. Total,COM,commercial,124436.15518,million kilowatt hours
+2005-08,US,U.S. Total,IND,industrial,90535.92761,million kilowatt hours
+2005-08,US,U.S. Total,RES,residential,146904.77969,million kilowatt hours
+2005-08,US,U.S. Total,TRA,transportation,666.8227,million kilowatt hours
+2005-09,US,U.S. Total,ALL,all sectors,330923.38387,million kilowatt hours
+2005-09,US,U.S. Total,COM,commercial,116516.874,million kilowatt hours
+2005-09,US,U.S. Total,IND,industrial,87256.04557,million kilowatt hours
+2005-09,US,U.S. Total,RES,residential,126515.63542,million kilowatt hours
+2005-09,US,U.S. Total,TRA,transportation,634.82889,million kilowatt hours
+2005-10,US,U.S. Total,ALL,all sectors,297626.30857,million kilowatt hours
+2005-10,US,U.S. Total,COM,commercial,108474.38377,million kilowatt hours
+2005-10,US,U.S. Total,IND,industrial,85856.05478,million kilowatt hours
+2005-10,US,U.S. Total,RES,residential,102685.87866,million kilowatt hours
+2005-10,US,U.S. Total,TRA,transportation,609.99136,million kilowatt hours
+2005-11,US,U.S. Total,ALL,all sectors,274585.46698,million kilowatt hours
+2005-11,US,U.S. Total,COM,commercial,98799.24861,million kilowatt hours
+2005-11,US,U.S. Total,IND,industrial,83512.20261,million kilowatt hours
+2005-11,US,U.S. Total,RES,residential,91686.57128,million kilowatt hours
+2005-11,US,U.S. Total,TRA,transportation,587.44449,million kilowatt hours
+2005-12,US,U.S. Total,ALL,all sectors,307342.67335,million kilowatt hours
+2005-12,US,U.S. Total,COM,commercial,103531.01217,million kilowatt hours
+2005-12,US,U.S. Total,IND,industrial,82974.33146,million kilowatt hours
+2005-12,US,U.S. Total,RES,residential,120177.22149,million kilowatt hours
+2005-12,US,U.S. Total,TRA,transportation,660.10823,million kilowatt hours
+2006-01,US,U.S. Total,ALL,all sectors,304865.97033,million kilowatt hours
+2006-01,US,U.S. Total,COM,commercial,101933.34533,million kilowatt hours
+2006-01,US,U.S. Total,IND,industrial,81864.64879,million kilowatt hours
+2006-01,US,U.S. Total,RES,residential,120418.84511,million kilowatt hours
+2006-01,US,U.S. Total,TRA,transportation,649.1311,million kilowatt hours
+2006-02,US,U.S. Total,ALL,all sectors,281046.41585,million kilowatt hours
+2006-02,US,U.S. Total,COM,commercial,95713.18742,million kilowatt hours
+2006-02,US,U.S. Total,IND,industrial,80207.18278,million kilowatt hours
+2006-02,US,U.S. Total,RES,residential,104511.06304,million kilowatt hours
+2006-02,US,U.S. Total,TRA,transportation,614.98261,million kilowatt hours
+2006-03,US,U.S. Total,ALL,all sectors,289970.2595,million kilowatt hours
+2006-03,US,U.S. Total,COM,commercial,101115.44679,million kilowatt hours
+2006-03,US,U.S. Total,IND,industrial,83264.00534,million kilowatt hours
+2006-03,US,U.S. Total,RES,residential,104955.19201,million kilowatt hours
+2006-03,US,U.S. Total,TRA,transportation,635.61536,million kilowatt hours
+2006-04,US,U.S. Total,ALL,all sectors,268208.30457,million kilowatt hours
+2006-04,US,U.S. Total,COM,commercial,96551.16055,million kilowatt hours
+2006-04,US,U.S. Total,IND,industrial,81696.37621,million kilowatt hours
+2006-04,US,U.S. Total,RES,residential,89374.09543,million kilowatt hours
+2006-04,US,U.S. Total,TRA,transportation,586.67238,million kilowatt hours
+2006-05,US,U.S. Total,ALL,all sectors,287198.13403,million kilowatt hours
+2006-05,US,U.S. Total,COM,commercial,106441.98201,million kilowatt hours
+2006-05,US,U.S. Total,IND,industrial,86178.93082,million kilowatt hours
+2006-05,US,U.S. Total,RES,residential,93999.95079,million kilowatt hours
+2006-05,US,U.S. Total,TRA,transportation,577.27041,million kilowatt hours
+2006-06,US,U.S. Total,ALL,all sectors,321839.88968,million kilowatt hours
+2006-06,US,U.S. Total,COM,commercial,115785.42304,million kilowatt hours
+2006-06,US,U.S. Total,IND,industrial,86629.84604,million kilowatt hours
+2006-06,US,U.S. Total,RES,residential,118815.30772,million kilowatt hours
+2006-06,US,U.S. Total,TRA,transportation,609.31288,million kilowatt hours
+2006-07,US,U.S. Total,ALL,all sectors,362386.77017,million kilowatt hours
+2006-07,US,U.S. Total,COM,commercial,125541.18393,million kilowatt hours
+2006-07,US,U.S. Total,IND,industrial,88879.95233,million kilowatt hours
+2006-07,US,U.S. Total,RES,residential,147338.32912,million kilowatt hours
+2006-07,US,U.S. Total,TRA,transportation,627.30479,million kilowatt hours
+2006-08,US,U.S. Total,ALL,all sectors,368633.76482,million kilowatt hours
+2006-08,US,U.S. Total,COM,commercial,127654.72298,million kilowatt hours
+2006-08,US,U.S. Total,IND,industrial,90284.79348,million kilowatt hours
+2006-08,US,U.S. Total,RES,residential,150064.42521,million kilowatt hours
+2006-08,US,U.S. Total,TRA,transportation,629.82315,million kilowatt hours
+2006-09,US,U.S. Total,ALL,all sectors,317282.10014,million kilowatt hours
+2006-09,US,U.S. Total,COM,commercial,114230.57436,million kilowatt hours
+2006-09,US,U.S. Total,IND,industrial,86364.06714,million kilowatt hours
+2006-09,US,U.S. Total,RES,residential,116072.16359,million kilowatt hours
+2006-09,US,U.S. Total,TRA,transportation,615.29504,million kilowatt hours
+2006-10,US,U.S. Total,ALL,all sectors,291186.10568,million kilowatt hours
+2006-10,US,U.S. Total,COM,commercial,109000.01878,million kilowatt hours
+2006-10,US,U.S. Total,IND,industrial,85337.48571,million kilowatt hours
+2006-10,US,U.S. Total,RES,residential,96246.21398,million kilowatt hours
+2006-10,US,U.S. Total,TRA,transportation,602.38721,million kilowatt hours
+2006-11,US,U.S. Total,ALL,all sectors,277181.9685,million kilowatt hours
+2006-11,US,U.S. Total,COM,commercial,101103.66444,million kilowatt hours
+2006-11,US,U.S. Total,IND,industrial,80653.08159,million kilowatt hours
+2006-11,US,U.S. Total,RES,residential,94842.85118,million kilowatt hours
+2006-11,US,U.S. Total,TRA,transportation,582.3713,million kilowatt hours
+2006-12,US,U.S. Total,ALL,all sectors,300119.15674,million kilowatt hours
+2006-12,US,U.S. Total,COM,commercial,104672.98538,million kilowatt hours
+2006-12,US,U.S. Total,IND,industrial,79937.19578,million kilowatt hours
+2006-12,US,U.S. Total,RES,residential,114881.59882,million kilowatt hours
+2006-12,US,U.S. Total,TRA,transportation,627.37677,million kilowatt hours
+2007-01,US,U.S. Total,ALL,all sectors,315103.76002,million kilowatt hours
+2007-01,US,U.S. Total,COM,commercial,106667.43962,million kilowatt hours
+2007-01,US,U.S. Total,IND,industrial,82384.48859,million kilowatt hours
+2007-01,US,U.S. Total,RES,residential,125286.23581,million kilowatt hours
+2007-01,US,U.S. Total,TRA,transportation,765.596,million kilowatt hours
+2007-02,US,U.S. Total,ALL,all sectors,301331.31465,million kilowatt hours
+2007-02,US,U.S. Total,COM,commercial,100756.42866,million kilowatt hours
+2007-02,US,U.S. Total,IND,industrial,78391.79387,million kilowatt hours
+2007-02,US,U.S. Total,RES,residential,121464.24918,million kilowatt hours
+2007-02,US,U.S. Total,TRA,transportation,718.84294,million kilowatt hours
+2007-03,US,U.S. Total,ALL,all sectors,291660.34841,million kilowatt hours
+2007-03,US,U.S. Total,COM,commercial,102640.14808,million kilowatt hours
+2007-03,US,U.S. Total,IND,industrial,82582.47097,million kilowatt hours
+2007-03,US,U.S. Total,RES,residential,105694.7597,million kilowatt hours
+2007-03,US,U.S. Total,TRA,transportation,742.96966,million kilowatt hours
+2007-04,US,U.S. Total,ALL,all sectors,275340.50697,million kilowatt hours
+2007-04,US,U.S. Total,COM,commercial,101051.20537,million kilowatt hours
+2007-04,US,U.S. Total,IND,industrial,83361.38391,million kilowatt hours
+2007-04,US,U.S. Total,RES,residential,90282.04653,million kilowatt hours
+2007-04,US,U.S. Total,TRA,transportation,645.87116,million kilowatt hours
+2007-05,US,U.S. Total,ALL,all sectors,292800.25887,million kilowatt hours
+2007-05,US,U.S. Total,COM,commercial,108558.89122,million kilowatt hours
+2007-05,US,U.S. Total,IND,industrial,87241.06727,million kilowatt hours
+2007-05,US,U.S. Total,RES,residential,96388.85378,million kilowatt hours
+2007-05,US,U.S. Total,TRA,transportation,611.44662,million kilowatt hours
+2007-06,US,U.S. Total,ALL,all sectors,323006.59103,million kilowatt hours
+2007-06,US,U.S. Total,COM,commercial,117351.90897,million kilowatt hours
+2007-06,US,U.S. Total,IND,industrial,87572.06503,million kilowatt hours
+2007-06,US,U.S. Total,RES,residential,117417.59514,million kilowatt hours
+2007-06,US,U.S. Total,TRA,transportation,665.0219,million kilowatt hours
+2007-07,US,U.S. Total,ALL,all sectors,352642.31557,million kilowatt hours
+2007-07,US,U.S. Total,COM,commercial,123923.08608,million kilowatt hours
+2007-07,US,U.S. Total,IND,industrial,89017.33579,million kilowatt hours
+2007-07,US,U.S. Total,RES,residential,139027.02976,million kilowatt hours
+2007-07,US,U.S. Total,TRA,transportation,674.86394,million kilowatt hours
+2007-08,US,U.S. Total,ALL,all sectors,373364.82394,million kilowatt hours
+2007-08,US,U.S. Total,COM,commercial,130474.68013,million kilowatt hours
+2007-08,US,U.S. Total,IND,industrial,92115.23385,million kilowatt hours
+2007-08,US,U.S. Total,RES,residential,150101.49426,million kilowatt hours
+2007-08,US,U.S. Total,TRA,transportation,673.4157,million kilowatt hours
+2007-09,US,U.S. Total,ALL,all sectors,337524.56498,million kilowatt hours
+2007-09,US,U.S. Total,COM,commercial,119898.38511,million kilowatt hours
+2007-09,US,U.S. Total,IND,industrial,87427.61386,million kilowatt hours
+2007-09,US,U.S. Total,RES,residential,129512.02449,million kilowatt hours
+2007-09,US,U.S. Total,TRA,transportation,686.54152,million kilowatt hours
+2007-10,US,U.S. Total,ALL,all sectors,307782.64949,million kilowatt hours
+2007-10,US,U.S. Total,COM,commercial,114481.20828,million kilowatt hours
+2007-10,US,U.S. Total,IND,industrial,88895.8681,million kilowatt hours
+2007-10,US,U.S. Total,RES,residential,103753.92219,million kilowatt hours
+2007-10,US,U.S. Total,TRA,transportation,651.65092,million kilowatt hours
+2007-11,US,U.S. Total,ALL,all sectors,286299.30566,million kilowatt hours
+2007-11,US,U.S. Total,COM,commercial,104603.26135,million kilowatt hours
+2007-11,US,U.S. Total,IND,industrial,85118.05351,million kilowatt hours
+2007-11,US,U.S. Total,RES,residential,95904.83059,million kilowatt hours
+2007-11,US,U.S. Total,TRA,transportation,673.16022,million kilowatt hours
+2007-12,US,U.S. Total,ALL,all sectors,307704.27239,million kilowatt hours
+2007-12,US,U.S. Total,COM,commercial,105908.55314,million kilowatt hours
+2007-12,US,U.S. Total,IND,industrial,83724.55026,million kilowatt hours
+2007-12,US,U.S. Total,RES,residential,117407.95458,million kilowatt hours
+2007-12,US,U.S. Total,TRA,transportation,663.21441,million kilowatt hours
+2008-01,US,U.S. Total,ALL,all sectors,326214.57102,million kilowatt hours
+2008-01,US,U.S. Total,COM,commercial,109061.27815,million kilowatt hours
+2008-01,US,U.S. Total,IND,industrial,83090.75123,million kilowatt hours
+2008-01,US,U.S. Total,RES,residential,133368.44196,million kilowatt hours
+2008-01,US,U.S. Total,TRA,transportation,694.09968,million kilowatt hours
+2008-02,US,U.S. Total,ALL,all sectors,305094.91897,million kilowatt hours
+2008-02,US,U.S. Total,COM,commercial,104396.86107,million kilowatt hours
+2008-02,US,U.S. Total,IND,industrial,81484.31279,million kilowatt hours
+2008-02,US,U.S. Total,RES,residential,118553.64589,million kilowatt hours
+2008-02,US,U.S. Total,TRA,transportation,660.09922,million kilowatt hours
+2008-03,US,U.S. Total,ALL,all sectors,294625.33802,million kilowatt hours
+2008-03,US,U.S. Total,COM,commercial,103334.63273,million kilowatt hours
+2008-03,US,U.S. Total,IND,industrial,83497.98014,million kilowatt hours
+2008-03,US,U.S. Total,RES,residential,107162.48294,million kilowatt hours
+2008-03,US,U.S. Total,TRA,transportation,630.24222,million kilowatt hours
+2008-04,US,U.S. Total,ALL,all sectors,277963.41678,million kilowatt hours
+2008-04,US,U.S. Total,COM,commercial,101487.44971,million kilowatt hours
+2008-04,US,U.S. Total,IND,industrial,83695.60892,million kilowatt hours
+2008-04,US,U.S. Total,RES,residential,92165.89406,million kilowatt hours
+2008-04,US,U.S. Total,TRA,transportation,614.46408,million kilowatt hours
+2008-05,US,U.S. Total,ALL,all sectors,288276.05761,million kilowatt hours
+2008-05,US,U.S. Total,COM,commercial,107473.48707,million kilowatt hours
+2008-05,US,U.S. Total,IND,industrial,87963.07225,million kilowatt hours
+2008-05,US,U.S. Total,RES,residential,92245.62751,million kilowatt hours
+2008-05,US,U.S. Total,TRA,transportation,593.87078,million kilowatt hours
+2008-06,US,U.S. Total,ALL,all sectors,328592.49724,million kilowatt hours
+2008-06,US,U.S. Total,COM,commercial,119372.96065,million kilowatt hours
+2008-06,US,U.S. Total,IND,industrial,87223.7717,million kilowatt hours
+2008-06,US,U.S. Total,RES,residential,121375.87566,million kilowatt hours
+2008-06,US,U.S. Total,TRA,transportation,619.88923,million kilowatt hours
+2008-07,US,U.S. Total,ALL,all sectors,360426.56763,million kilowatt hours
+2008-07,US,U.S. Total,COM,commercial,128072.03466,million kilowatt hours
+2008-07,US,U.S. Total,IND,industrial,88526.8087,million kilowatt hours
+2008-07,US,U.S. Total,RES,residential,143179.15198,million kilowatt hours
+2008-07,US,U.S. Total,TRA,transportation,648.57229,million kilowatt hours
+2008-08,US,U.S. Total,ALL,all sectors,351856.42843,million kilowatt hours
+2008-08,US,U.S. Total,COM,commercial,124195.6496,million kilowatt hours
+2008-08,US,U.S. Total,IND,industrial,88551.91025,million kilowatt hours
+2008-08,US,U.S. Total,RES,residential,138459.9164,million kilowatt hours
+2008-08,US,U.S. Total,TRA,transportation,648.95218,million kilowatt hours
+2008-09,US,U.S. Total,ALL,all sectors,321906.21066,million kilowatt hours
+2008-09,US,U.S. Total,COM,commercial,118288.84717,million kilowatt hours
+2008-09,US,U.S. Total,IND,industrial,85910.35521,million kilowatt hours
+2008-09,US,U.S. Total,RES,residential,117078.13536,million kilowatt hours
+2008-09,US,U.S. Total,TRA,transportation,628.87292,million kilowatt hours
+2008-10,US,U.S. Total,ALL,all sectors,291762.07434,million kilowatt hours
+2008-10,US,U.S. Total,COM,commercial,110849.71329,million kilowatt hours
+2008-10,US,U.S. Total,IND,industrial,84164.27206,million kilowatt hours
+2008-10,US,U.S. Total,RES,residential,96110.5902,million kilowatt hours
+2008-10,US,U.S. Total,TRA,transportation,637.49879,million kilowatt hours
+2008-11,US,U.S. Total,ALL,all sectors,278330.40976,million kilowatt hours
+2008-11,US,U.S. Total,COM,commercial,102414.68843,million kilowatt hours
+2008-11,US,U.S. Total,IND,industrial,79538.65519,million kilowatt hours
+2008-11,US,U.S. Total,RES,residential,95766.49248,million kilowatt hours
+2008-11,US,U.S. Total,TRA,transportation,610.57365,million kilowatt hours
+2008-12,US,U.S. Total,ALL,all sectors,308916.12865,million kilowatt hours
+2008-12,US,U.S. Total,COM,commercial,107185.88253,million kilowatt hours
+2008-12,US,U.S. Total,IND,industrial,75868.67965,million kilowatt hours
+2008-12,US,U.S. Total,RES,residential,125195.49051,million kilowatt hours
+2008-12,US,U.S. Total,TRA,transportation,666.07597,million kilowatt hours
+2009-01,US,U.S. Total,ALL,all sectors,321623.96705,million kilowatt hours
+2009-01,US,U.S. Total,COM,commercial,109643.16445,million kilowatt hours
+2009-01,US,U.S. Total,IND,industrial,74983.03633,million kilowatt hours
+2009-01,US,U.S. Total,RES,residential,136228.78303,million kilowatt hours
+2009-01,US,U.S. Total,TRA,transportation,768.98325,million kilowatt hours
+2009-02,US,U.S. Total,ALL,all sectors,286251.46303,million kilowatt hours
+2009-02,US,U.S. Total,COM,commercial,99010.67533,million kilowatt hours
+2009-02,US,U.S. Total,IND,industrial,71358.00943,million kilowatt hours
+2009-02,US,U.S. Total,RES,residential,115212.23344,million kilowatt hours
+2009-02,US,U.S. Total,TRA,transportation,670.54483,million kilowatt hours
+2009-03,US,U.S. Total,ALL,all sectors,283807.82623,million kilowatt hours
+2009-03,US,U.S. Total,COM,commercial,102458.09406,million kilowatt hours
+2009-03,US,U.S. Total,IND,industrial,74171.16102,million kilowatt hours
+2009-03,US,U.S. Total,RES,residential,106501.36115,million kilowatt hours
+2009-03,US,U.S. Total,TRA,transportation,677.21,million kilowatt hours
+2009-04,US,U.S. Total,ALL,all sectors,265463.64608,million kilowatt hours
+2009-04,US,U.S. Total,COM,commercial,99804.15979,million kilowatt hours
+2009-04,US,U.S. Total,IND,industrial,73415.09341,million kilowatt hours
+2009-04,US,U.S. Total,RES,residential,91631.16242,million kilowatt hours
+2009-04,US,U.S. Total,TRA,transportation,613.23046,million kilowatt hours
+2009-05,US,U.S. Total,ALL,all sectors,275275.97676,million kilowatt hours
+2009-05,US,U.S. Total,COM,commercial,105211.81067,million kilowatt hours
+2009-05,US,U.S. Total,IND,industrial,75150.83707,million kilowatt hours
+2009-05,US,U.S. Total,RES,residential,94312.17694,million kilowatt hours
+2009-05,US,U.S. Total,TRA,transportation,601.15207,million kilowatt hours
+2009-06,US,U.S. Total,ALL,all sectors,305520.46993,million kilowatt hours
+2009-06,US,U.S. Total,COM,commercial,114832.07907,million kilowatt hours
+2009-06,US,U.S. Total,IND,industrial,75680.59193,million kilowatt hours
+2009-06,US,U.S. Total,RES,residential,114395.18493,million kilowatt hours
+2009-06,US,U.S. Total,TRA,transportation,612.614,million kilowatt hours
+2009-07,US,U.S. Total,ALL,all sectors,337878.07154,million kilowatt hours
+2009-07,US,U.S. Total,COM,commercial,121323.02953,million kilowatt hours
+2009-07,US,U.S. Total,IND,industrial,78390.88288,million kilowatt hours
+2009-07,US,U.S. Total,RES,residential,137497.95889,million kilowatt hours
+2009-07,US,U.S. Total,TRA,transportation,666.20023,million kilowatt hours
+2009-08,US,U.S. Total,ALL,all sectors,344845.1952,million kilowatt hours
+2009-08,US,U.S. Total,COM,commercial,123776.73329,million kilowatt hours
+2009-08,US,U.S. Total,IND,industrial,82199.24951,million kilowatt hours
+2009-08,US,U.S. Total,RES,residential,138222.67826,million kilowatt hours
+2009-08,US,U.S. Total,TRA,transportation,646.53414,million kilowatt hours
+2009-09,US,U.S. Total,ALL,all sectors,310563.30622,million kilowatt hours
+2009-09,US,U.S. Total,COM,commercial,114900.22901,million kilowatt hours
+2009-09,US,U.S. Total,IND,industrial,79863.39097,million kilowatt hours
+2009-09,US,U.S. Total,RES,residential,115163.38169,million kilowatt hours
+2009-09,US,U.S. Total,TRA,transportation,636.30455,million kilowatt hours
+2009-10,US,U.S. Total,ALL,all sectors,287116.30848,million kilowatt hours
+2009-10,US,U.S. Total,COM,commercial,108513.64705,million kilowatt hours
+2009-10,US,U.S. Total,IND,industrial,79450.79424,million kilowatt hours
+2009-10,US,U.S. Total,RES,residential,98552.02288,million kilowatt hours
+2009-10,US,U.S. Total,TRA,transportation,599.84432,million kilowatt hours
+2009-11,US,U.S. Total,ALL,all sectors,268157.85379,million kilowatt hours
+2009-11,US,U.S. Total,COM,commercial,98901.26048,million kilowatt hours
+2009-11,US,U.S. Total,IND,industrial,75638.71671,million kilowatt hours
+2009-11,US,U.S. Total,RES,residential,93027.97812,million kilowatt hours
+2009-11,US,U.S. Total,TRA,transportation,589.89847,million kilowatt hours
+2009-12,US,U.S. Total,ALL,all sectors,310291.04959,million kilowatt hours
+2009-12,US,U.S. Total,COM,commercial,108477.64119,million kilowatt hours
+2009-12,US,U.S. Total,IND,industrial,77114.70448,million kilowatt hours
+2009-12,US,U.S. Total,RES,residential,124013.23123,million kilowatt hours
+2009-12,US,U.S. Total,TRA,transportation,685.47269,million kilowatt hours
+2010-01,US,U.S. Total,ALL,all sectors,331878.76297,million kilowatt hours
+2010-01,US,U.S. Total,COM,commercial,108120.50557,million kilowatt hours
+2010-01,US,U.S. Total,IND,industrial,75548.90308,million kilowatt hours
+2010-01,US,U.S. Total,RES,residential,147499.8756,million kilowatt hours
+2010-01,US,U.S. Total,TRA,transportation,709.47872,million kilowatt hours
+2010-02,US,U.S. Total,ALL,all sectors,298459.72804,million kilowatt hours
+2010-02,US,U.S. Total,COM,commercial,100746.97804,million kilowatt hours
+2010-02,US,U.S. Total,IND,industrial,74190.72741,million kilowatt hours
+2010-02,US,U.S. Total,RES,residential,122840.19897,million kilowatt hours
+2010-02,US,U.S. Total,TRA,transportation,681.82363,million kilowatt hours
+2010-03,US,U.S. Total,ALL,all sectors,292511.35075,million kilowatt hours
+2010-03,US,U.S. Total,COM,commercial,101751.35586,million kilowatt hours
+2010-03,US,U.S. Total,IND,industrial,78319.08909,million kilowatt hours
+2010-03,US,U.S. Total,RES,residential,111789.98549,million kilowatt hours
+2010-03,US,U.S. Total,TRA,transportation,650.92031,million kilowatt hours
+2010-04,US,U.S. Total,ALL,all sectors,267052.12908,million kilowatt hours
+2010-04,US,U.S. Total,COM,commercial,99790.36122,million kilowatt hours
+2010-04,US,U.S. Total,IND,industrial,78620.38762,million kilowatt hours
+2010-04,US,U.S. Total,RES,residential,88046.43494,million kilowatt hours
+2010-04,US,U.S. Total,TRA,transportation,594.94531,million kilowatt hours
+2010-05,US,U.S. Total,ALL,all sectors,283729.2674,million kilowatt hours
+2010-05,US,U.S. Total,COM,commercial,106172.1027,million kilowatt hours
+2010-05,US,U.S. Total,IND,industrial,82113.9719,million kilowatt hours
+2010-05,US,U.S. Total,RES,residential,94843.00591,million kilowatt hours
+2010-05,US,U.S. Total,TRA,transportation,600.1869,million kilowatt hours
+2010-06,US,U.S. Total,ALL,all sectors,330893.20089,million kilowatt hours
+2010-06,US,U.S. Total,COM,commercial,119384.99993,million kilowatt hours
+2010-06,US,U.S. Total,IND,industrial,83359.7068,million kilowatt hours
+2010-06,US,U.S. Total,RES,residential,127495.96897,million kilowatt hours
+2010-06,US,U.S. Total,TRA,transportation,652.52518,million kilowatt hours
+2010-07,US,U.S. Total,ALL,all sectors,369017.71929,million kilowatt hours
+2010-07,US,U.S. Total,COM,commercial,127923.96458,million kilowatt hours
+2010-07,US,U.S. Total,IND,industrial,85743.80969,million kilowatt hours
+2010-07,US,U.S. Total,RES,residential,154688.71374,million kilowatt hours
+2010-07,US,U.S. Total,TRA,transportation,661.23129,million kilowatt hours
+2010-08,US,U.S. Total,ALL,all sectors,371769.31409,million kilowatt hours
+2010-08,US,U.S. Total,COM,commercial,129166.3266,million kilowatt hours
+2010-08,US,U.S. Total,IND,industrial,87927.06843,million kilowatt hours
+2010-08,US,U.S. Total,RES,residential,154053.43099,million kilowatt hours
+2010-08,US,U.S. Total,TRA,transportation,622.48808,million kilowatt hours
+2010-09,US,U.S. Total,ALL,all sectors,327742.33635,million kilowatt hours
+2010-09,US,U.S. Total,COM,commercial,119136.72305,million kilowatt hours
+2010-09,US,U.S. Total,IND,industrial,83389.71461,million kilowatt hours
+2010-09,US,U.S. Total,RES,residential,124582.73197,million kilowatt hours
+2010-09,US,U.S. Total,TRA,transportation,633.16672,million kilowatt hours
+2010-10,US,U.S. Total,ALL,all sectors,287839.79568,million kilowatt hours
+2010-10,US,U.S. Total,COM,commercial,108460.80315,million kilowatt hours
+2010-10,US,U.S. Total,IND,industrial,82080.65341,million kilowatt hours
+2010-10,US,U.S. Total,RES,residential,96688.03347,million kilowatt hours
+2010-10,US,U.S. Total,TRA,transportation,610.30565,million kilowatt hours
+2010-11,US,U.S. Total,ALL,all sectors,274900.06863,million kilowatt hours
+2010-11,US,U.S. Total,COM,commercial,101518.93623,million kilowatt hours
+2010-11,US,U.S. Total,IND,industrial,79613.8808,million kilowatt hours
+2010-11,US,U.S. Total,RES,residential,93166.13873,million kilowatt hours
+2010-11,US,U.S. Total,TRA,transportation,601.11287,million kilowatt hours
+2010-12,US,U.S. Total,ALL,all sectors,319047.69506,million kilowatt hours
+2010-12,US,U.S. Total,COM,commercial,108026.30702,million kilowatt hours
+2010-12,US,U.S. Total,IND,industrial,80313.27654,million kilowatt hours
+2010-12,US,U.S. Total,RES,residential,130013.88415,million kilowatt hours
+2010-12,US,U.S. Total,TRA,transportation,694.22735,million kilowatt hours
+2011-01,US,U.S. Total,ALL,all sectors,334115.65319,million kilowatt hours
+2011-01,US,U.S. Total,COM,commercial,108250.63314,million kilowatt hours
+2011-01,US,U.S. Total,IND,industrial,80092.87514,million kilowatt hours
+2011-01,US,U.S. Total,RES,residential,145061.68779,million kilowatt hours
+2011-01,US,U.S. Total,TRA,transportation,710.45712,million kilowatt hours
+2011-02,US,U.S. Total,ALL,all sectors,296903.49799,million kilowatt hours
+2011-02,US,U.S. Total,COM,commercial,99795.53835,million kilowatt hours
+2011-02,US,U.S. Total,IND,industrial,76361.23172,million kilowatt hours
+2011-02,US,U.S. Total,RES,residential,120109.96908,million kilowatt hours
+2011-02,US,U.S. Total,TRA,transportation,636.75884,million kilowatt hours
+2011-03,US,U.S. Total,ALL,all sectors,292051.85887,million kilowatt hours
+2011-03,US,U.S. Total,COM,commercial,104257.05814,million kilowatt hours
+2011-03,US,U.S. Total,IND,industrial,82209.08469,million kilowatt hours
+2011-03,US,U.S. Total,RES,residential,104922.12296,million kilowatt hours
+2011-03,US,U.S. Total,TRA,transportation,663.59308,million kilowatt hours
+2011-04,US,U.S. Total,ALL,all sectors,275203.87798,million kilowatt hours
+2011-04,US,U.S. Total,COM,commercial,100506.21559,million kilowatt hours
+2011-04,US,U.S. Total,IND,industrial,80367.2619,million kilowatt hours
+2011-04,US,U.S. Total,RES,residential,93701.63929,million kilowatt hours
+2011-04,US,U.S. Total,TRA,transportation,628.7612,million kilowatt hours
+2011-05,US,U.S. Total,ALL,all sectors,287992.74781,million kilowatt hours
+2011-05,US,U.S. Total,COM,commercial,107624.53459,million kilowatt hours
+2011-05,US,U.S. Total,IND,industrial,82060.54846,million kilowatt hours
+2011-05,US,U.S. Total,RES,residential,97689.09798,million kilowatt hours
+2011-05,US,U.S. Total,TRA,transportation,618.56678,million kilowatt hours
+2011-06,US,U.S. Total,ALL,all sectors,328707.33187,million kilowatt hours
+2011-06,US,U.S. Total,COM,commercial,118170.17391,million kilowatt hours
+2011-06,US,U.S. Total,IND,industrial,83911.56382,million kilowatt hours
+2011-06,US,U.S. Total,RES,residential,125982.78519,million kilowatt hours
+2011-06,US,U.S. Total,TRA,transportation,642.80896,million kilowatt hours
+2011-07,US,U.S. Total,ALL,all sectors,370691.91322,million kilowatt hours
+2011-07,US,U.S. Total,COM,commercial,128065.43317,million kilowatt hours
+2011-07,US,U.S. Total,IND,industrial,87247.10363,million kilowatt hours
+2011-07,US,U.S. Total,RES,residential,154728.9198,million kilowatt hours
+2011-07,US,U.S. Total,TRA,transportation,650.45662,million kilowatt hours
+2011-08,US,U.S. Total,ALL,all sectors,372719.82806,million kilowatt hours
+2011-08,US,U.S. Total,COM,commercial,129368.47817,million kilowatt hours
+2011-08,US,U.S. Total,IND,industrial,88987.35194,million kilowatt hours
+2011-08,US,U.S. Total,RES,residential,153738.7326,million kilowatt hours
+2011-08,US,U.S. Total,TRA,transportation,625.26534,million kilowatt hours
+2011-09,US,U.S. Total,ALL,all sectors,326247.22166,million kilowatt hours
+2011-09,US,U.S. Total,COM,commercial,117951.31165,million kilowatt hours
+2011-09,US,U.S. Total,IND,industrial,84942.79578,million kilowatt hours
+2011-09,US,U.S. Total,RES,residential,122719.49868,million kilowatt hours
+2011-09,US,U.S. Total,TRA,transportation,633.61555,million kilowatt hours
+2011-10,US,U.S. Total,ALL,all sectors,288132.88819,million kilowatt hours
+2011-10,US,U.S. Total,COM,commercial,108649.56376,million kilowatt hours
+2011-10,US,U.S. Total,IND,industrial,84281.7274,million kilowatt hours
+2011-10,US,U.S. Total,RES,residential,94585.12049,million kilowatt hours
+2011-10,US,U.S. Total,TRA,transportation,616.47655,million kilowatt hours
+2011-11,US,U.S. Total,ALL,all sectors,275235.16385,million kilowatt hours
+2011-11,US,U.S. Total,COM,commercial,100552.41991,million kilowatt hours
+2011-11,US,U.S. Total,IND,industrial,80872.4358,million kilowatt hours
+2011-11,US,U.S. Total,RES,residential,93220.49602,million kilowatt hours
+2011-11,US,U.S. Total,TRA,transportation,589.81212,million kilowatt hours
+2011-12,US,U.S. Total,ALL,all sectors,301844.19734,million kilowatt hours
+2011-12,US,U.S. Total,COM,commercial,104866.07866,million kilowatt hours
+2011-12,US,U.S. Total,IND,industrial,79981.58371,million kilowatt hours
+2011-12,US,U.S. Total,RES,residential,116341.02312,million kilowatt hours
+2011-12,US,U.S. Total,TRA,transportation,655.51185,million kilowatt hours
+2012-01,US,U.S. Total,ALL,all sectors,310975.3842,million kilowatt hours
+2012-01,US,U.S. Total,COM,commercial,105239.31021,million kilowatt hours
+2012-01,US,U.S. Total,IND,industrial,79204.65598,million kilowatt hours
+2012-01,US,U.S. Total,RES,residential,125881.48337,million kilowatt hours
+2012-01,US,U.S. Total,TRA,transportation,649.93465,million kilowatt hours
+2012-02,US,U.S. Total,ALL,all sectors,286982.92448,million kilowatt hours
+2012-02,US,U.S. Total,COM,commercial,100080.12366,million kilowatt hours
+2012-02,US,U.S. Total,IND,industrial,78298.27379,million kilowatt hours
+2012-02,US,U.S. Total,RES,residential,107975.35744,million kilowatt hours
+2012-02,US,U.S. Total,TRA,transportation,629.16958,million kilowatt hours
+2012-03,US,U.S. Total,ALL,all sectors,283731.20675,million kilowatt hours
+2012-03,US,U.S. Total,COM,commercial,102474.42295,million kilowatt hours
+2012-03,US,U.S. Total,IND,industrial,81298.24301,million kilowatt hours
+2012-03,US,U.S. Total,RES,residential,99361.68572,million kilowatt hours
+2012-03,US,U.S. Total,TRA,transportation,596.85507,million kilowatt hours
+2012-04,US,U.S. Total,ALL,all sectors,270759.60242,million kilowatt hours
+2012-04,US,U.S. Total,COM,commercial,101036.70763,million kilowatt hours
+2012-04,US,U.S. Total,IND,industrial,81029.67494,million kilowatt hours
+2012-04,US,U.S. Total,RES,residential,88103.20953,million kilowatt hours
+2012-04,US,U.S. Total,TRA,transportation,590.01033,million kilowatt hours
+2012-05,US,U.S. Total,ALL,all sectors,296968.16897,million kilowatt hours
+2012-05,US,U.S. Total,COM,commercial,110800.44713,million kilowatt hours
+2012-05,US,U.S. Total,IND,industrial,84677.64946,million kilowatt hours
+2012-05,US,U.S. Total,RES,residential,100895.11737,million kilowatt hours
+2012-05,US,U.S. Total,TRA,transportation,594.95501,million kilowatt hours
+2012-06,US,U.S. Total,ALL,all sectors,325159.86926,million kilowatt hours
+2012-06,US,U.S. Total,COM,commercial,118009.39147,million kilowatt hours
+2012-06,US,U.S. Total,IND,industrial,83619.0094,million kilowatt hours
+2012-06,US,U.S. Total,RES,residential,122934.13138,million kilowatt hours
+2012-06,US,U.S. Total,TRA,transportation,597.33701,million kilowatt hours
+2012-07,US,U.S. Total,ALL,all sectors,370962.70076,million kilowatt hours
+2012-07,US,U.S. Total,COM,commercial,128535.30752,million kilowatt hours
+2012-07,US,U.S. Total,IND,industrial,87219.18043,million kilowatt hours
+2012-07,US,U.S. Total,RES,residential,154579.07102,million kilowatt hours
+2012-07,US,U.S. Total,TRA,transportation,629.14179,million kilowatt hours
+2012-08,US,U.S. Total,ALL,all sectors,364784.71655,million kilowatt hours
+2012-08,US,U.S. Total,COM,commercial,128106.4177,million kilowatt hours
+2012-08,US,U.S. Total,IND,industrial,88104.63253,million kilowatt hours
+2012-08,US,U.S. Total,RES,residential,147941.04266,million kilowatt hours
+2012-08,US,U.S. Total,TRA,transportation,632.62365,million kilowatt hours
+2012-09,US,U.S. Total,ALL,all sectors,318089.70771,million kilowatt hours
+2012-09,US,U.S. Total,COM,commercial,116584.97051,million kilowatt hours
+2012-09,US,U.S. Total,IND,industrial,82059.90033,million kilowatt hours
+2012-09,US,U.S. Total,RES,residential,118831.34204,million kilowatt hours
+2012-09,US,U.S. Total,TRA,transportation,613.49482,million kilowatt hours
+2012-10,US,U.S. Total,ALL,all sectors,290735.45792,million kilowatt hours
+2012-10,US,U.S. Total,COM,commercial,110471.00997,million kilowatt hours
+2012-10,US,U.S. Total,IND,industrial,82995.68967,million kilowatt hours
+2012-10,US,U.S. Total,RES,residential,96669.43338,million kilowatt hours
+2012-10,US,U.S. Total,TRA,transportation,599.3249,million kilowatt hours
+2012-11,US,U.S. Total,ALL,all sectors,278211.92275,million kilowatt hours
+2012-11,US,U.S. Total,COM,commercial,101640.73826,million kilowatt hours
+2012-11,US,U.S. Total,IND,industrial,78847.34019,million kilowatt hours
+2012-11,US,U.S. Total,RES,residential,97155.23195,million kilowatt hours
+2012-11,US,U.S. Total,TRA,transportation,568.61236,million kilowatt hours
+2012-12,US,U.S. Total,ALL,all sectors,297288.12385,million kilowatt hours
+2012-12,US,U.S. Total,COM,commercial,104122.34865,million kilowatt hours
+2012-12,US,U.S. Total,IND,industrial,78359.60426,million kilowatt hours
+2012-12,US,U.S. Total,RES,residential,114187.60211,million kilowatt hours
+2012-12,US,U.S. Total,TRA,transportation,618.56883,million kilowatt hours
+2013-01,US,U.S. Total,ALL,all sectors,320682.92852,million kilowatt hours
+2013-01,US,U.S. Total,COM,commercial,107728.74656,million kilowatt hours
+2013-01,US,U.S. Total,IND,industrial,80505.47227,million kilowatt hours
+2013-01,US,U.S. Total,RES,residential,131784.83713,million kilowatt hours
+2013-01,US,U.S. Total,TRA,transportation,663.87257,million kilowatt hours
+2013-02,US,U.S. Total,ALL,all sectors,291480.36403,million kilowatt hours
+2013-02,US,U.S. Total,COM,commercial,101015.6343,million kilowatt hours
+2013-02,US,U.S. Total,IND,industrial,76692.04883,million kilowatt hours
+2013-02,US,U.S. Total,RES,residential,113113.88543,million kilowatt hours
+2013-02,US,U.S. Total,TRA,transportation,658.79547,million kilowatt hours
+2013-03,US,U.S. Total,ALL,all sectors,297226.03086,million kilowatt hours
+2013-03,US,U.S. Total,COM,commercial,104011.35848,million kilowatt hours
+2013-03,US,U.S. Total,IND,industrial,80474.38927,million kilowatt hours
+2013-03,US,U.S. Total,RES,residential,112096.72548,million kilowatt hours
+2013-03,US,U.S. Total,TRA,transportation,643.55762,million kilowatt hours
+2013-04,US,U.S. Total,ALL,all sectors,277781.90748,million kilowatt hours
+2013-04,US,U.S. Total,COM,commercial,101394.9418,million kilowatt hours
+2013-04,US,U.S. Total,IND,industrial,80216.47132,million kilowatt hours
+2013-04,US,U.S. Total,RES,residential,95540.85075,million kilowatt hours
+2013-04,US,U.S. Total,TRA,transportation,629.64361,million kilowatt hours
+2013-05,US,U.S. Total,ALL,all sectors,289398.43306,million kilowatt hours
+2013-05,US,U.S. Total,COM,commercial,108682.60602,million kilowatt hours
+2013-05,US,U.S. Total,IND,industrial,84896.9274,million kilowatt hours
+2013-05,US,U.S. Total,RES,residential,95191.59812,million kilowatt hours
+2013-05,US,U.S. Total,TRA,transportation,627.30152,million kilowatt hours
+2013-06,US,U.S. Total,ALL,all sectors,320200.66137,million kilowatt hours
+2013-06,US,U.S. Total,COM,commercial,117410.41288,million kilowatt hours
+2013-06,US,U.S. Total,IND,industrial,84169.85683,million kilowatt hours
+2013-06,US,U.S. Total,RES,residential,117982.10632,million kilowatt hours
+2013-06,US,U.S. Total,TRA,transportation,638.28534,million kilowatt hours
+2013-07,US,U.S. Total,ALL,all sectors,358700.92813,million kilowatt hours
+2013-07,US,U.S. Total,COM,commercial,127310.57593,million kilowatt hours
+2013-07,US,U.S. Total,IND,industrial,86886.90809,million kilowatt hours
+2013-07,US,U.S. Total,RES,residential,143854.74884,million kilowatt hours
+2013-07,US,U.S. Total,TRA,transportation,648.69528,million kilowatt hours
+2013-08,US,U.S. Total,ALL,all sectors,353579.59372,million kilowatt hours
+2013-08,US,U.S. Total,COM,commercial,127063.27433,million kilowatt hours
+2013-08,US,U.S. Total,IND,industrial,87806.36831,million kilowatt hours
+2013-08,US,U.S. Total,RES,residential,138065.06955,million kilowatt hours
+2013-08,US,U.S. Total,TRA,transportation,644.88154,million kilowatt hours
+2013-09,US,U.S. Total,ALL,all sectors,323477.85626,million kilowatt hours
+2013-09,US,U.S. Total,COM,commercial,118407.72153,million kilowatt hours
+2013-09,US,U.S. Total,IND,industrial,83024.99127,million kilowatt hours
+2013-09,US,U.S. Total,RES,residential,121419.21582,million kilowatt hours
+2013-09,US,U.S. Total,TRA,transportation,625.92764,million kilowatt hours
+2013-10,US,U.S. Total,ALL,all sectors,294370.25872,million kilowatt hours
+2013-10,US,U.S. Total,COM,commercial,111906.62154,million kilowatt hours
+2013-10,US,U.S. Total,IND,industrial,82979.76639,million kilowatt hours
+2013-10,US,U.S. Total,RES,residential,98893.01479,million kilowatt hours
+2013-10,US,U.S. Total,TRA,transportation,590.856,million kilowatt hours
+2013-11,US,U.S. Total,ALL,all sectors,281494.32405,million kilowatt hours
+2013-11,US,U.S. Total,COM,commercial,103384.47877,million kilowatt hours
+2013-11,US,U.S. Total,IND,industrial,79631.57395,million kilowatt hours
+2013-11,US,U.S. Total,RES,residential,97904.01594,million kilowatt hours
+2013-11,US,U.S. Total,TRA,transportation,574.2554,million kilowatt hours
+2013-12,US,U.S. Total,ALL,all sectors,316474.53483,million kilowatt hours
+2013-12,US,U.S. Total,COM,commercial,108762.40498,million kilowatt hours
+2013-12,US,U.S. Total,IND,industrial,78067.10006,million kilowatt hours
+2013-12,US,U.S. Total,RES,residential,128966.06076,million kilowatt hours
+2013-12,US,U.S. Total,TRA,transportation,678.96903,million kilowatt hours
+2014-01,US,U.S. Total,ALL,all sectors,341238.27229,million kilowatt hours
+2014-01,US,U.S. Total,COM,commercial,113865.92486,million kilowatt hours
+2014-01,US,U.S. Total,IND,industrial,80148.84693,million kilowatt hours
+2014-01,US,U.S. Total,RES,residential,146511.44233,million kilowatt hours
+2014-01,US,U.S. Total,TRA,transportation,712.05817,million kilowatt hours
+2014-02,US,U.S. Total,ALL,all sectors,308941.13303,million kilowatt hours
+2014-02,US,U.S. Total,COM,commercial,104352.64247,million kilowatt hours
+2014-02,US,U.S. Total,IND,industrial,75413.26442,million kilowatt hours
+2014-02,US,U.S. Total,RES,residential,128475.35803,million kilowatt hours
+2014-02,US,U.S. Total,TRA,transportation,699.86812,million kilowatt hours
+2014-03,US,U.S. Total,ALL,all sectors,302388.18814,million kilowatt hours
+2014-03,US,U.S. Total,COM,commercial,106967.88672,million kilowatt hours
+2014-03,US,U.S. Total,IND,industrial,80539.0692,million kilowatt hours
+2014-03,US,U.S. Total,RES,residential,114232.80446,million kilowatt hours
+2014-03,US,U.S. Total,TRA,transportation,648.42777,million kilowatt hours
+2014-04,US,U.S. Total,ALL,all sectors,275893.66693,million kilowatt hours
+2014-04,US,U.S. Total,COM,commercial,102458.94982,million kilowatt hours
+2014-04,US,U.S. Total,IND,industrial,80505.32655,million kilowatt hours
+2014-04,US,U.S. Total,RES,residential,92289.71503,million kilowatt hours
+2014-04,US,U.S. Total,TRA,transportation,639.67552,million kilowatt hours
+2014-05,US,U.S. Total,ALL,all sectors,291420.86896,million kilowatt hours
+2014-05,US,U.S. Total,COM,commercial,109665.54886,million kilowatt hours
+2014-05,US,U.S. Total,IND,industrial,85382.98728,million kilowatt hours
+2014-05,US,U.S. Total,RES,residential,95726.76781,million kilowatt hours
+2014-05,US,U.S. Total,TRA,transportation,645.56501,million kilowatt hours
+2014-06,US,U.S. Total,ALL,all sectors,322791.97998,million kilowatt hours
+2014-06,US,U.S. Total,COM,commercial,118422.5304,million kilowatt hours
+2014-06,US,U.S. Total,IND,industrial,85711.096,million kilowatt hours
+2014-06,US,U.S. Total,RES,residential,118049.03675,million kilowatt hours
+2014-06,US,U.S. Total,TRA,transportation,609.31684,million kilowatt hours
+2014-07,US,U.S. Total,ALL,all sectors,351523.98462,million kilowatt hours
+2014-07,US,U.S. Total,COM,commercial,125434.14702,million kilowatt hours
+2014-07,US,U.S. Total,IND,industrial,88417.10031,million kilowatt hours
+2014-07,US,U.S. Total,RES,residential,137027.96944,million kilowatt hours
+2014-07,US,U.S. Total,TRA,transportation,644.76785,million kilowatt hours
+2014-08,US,U.S. Total,ALL,all sectors,351882.99204,million kilowatt hours
+2014-08,US,U.S. Total,COM,commercial,125603.00367,million kilowatt hours
+2014-08,US,U.S. Total,IND,industrial,89808.40816,million kilowatt hours
+2014-08,US,U.S. Total,RES,residential,135829.7966,million kilowatt hours
+2014-08,US,U.S. Total,TRA,transportation,641.78362,million kilowatt hours
+2014-09,US,U.S. Total,ALL,all sectors,326907.12123,million kilowatt hours
+2014-09,US,U.S. Total,COM,commercial,120048.81267,million kilowatt hours
+2014-09,US,U.S. Total,IND,industrial,85489.15774,million kilowatt hours
+2014-09,US,U.S. Total,RES,residential,120741.34746,million kilowatt hours
+2014-09,US,U.S. Total,TRA,transportation,627.80336,million kilowatt hours
+2014-10,US,U.S. Total,ALL,all sectors,296679.7844,million kilowatt hours
+2014-10,US,U.S. Total,COM,commercial,113023.10289,million kilowatt hours
+2014-10,US,U.S. Total,IND,industrial,84994.16687,million kilowatt hours
+2014-10,US,U.S. Total,RES,residential,98037.68189,million kilowatt hours
+2014-10,US,U.S. Total,TRA,transportation,624.83276,million kilowatt hours
+2014-11,US,U.S. Total,ALL,all sectors,285412.58256,million kilowatt hours
+2014-11,US,U.S. Total,COM,commercial,104245.46931,million kilowatt hours
+2014-11,US,U.S. Total,IND,industrial,81044.19637,million kilowatt hours
+2014-11,US,U.S. Total,RES,residential,99485.77105,million kilowatt hours
+2014-11,US,U.S. Total,TRA,transportation,637.14582,million kilowatt hours
+2014-12,US,U.S. Total,ALL,all sectors,309619.69283,million kilowatt hours
+2014-12,US,U.S. Total,COM,commercial,108070.2444,million kilowatt hours
+2014-12,US,U.S. Total,IND,industrial,80122.51809,million kilowatt hours
+2014-12,US,U.S. Total,RES,residential,120800.62015,million kilowatt hours
+2014-12,US,U.S. Total,TRA,transportation,626.31019,million kilowatt hours
+2015-01,US,U.S. Total,ALL,all sectors,329666.32027,million kilowatt hours
+2015-01,US,U.S. Total,COM,commercial,111619.65742,million kilowatt hours
+2015-01,US,U.S. Total,IND,industrial,79608.99964,million kilowatt hours
+2015-01,US,U.S. Total,RES,residential,137764.85879,million kilowatt hours
+2015-01,US,U.S. Total,TRA,transportation,672.80442,million kilowatt hours
+2015-02,US,U.S. Total,ALL,all sectors,306768.44011,million kilowatt hours
+2015-02,US,U.S. Total,COM,commercial,105482.47635,million kilowatt hours
+2015-02,US,U.S. Total,IND,industrial,76748.76531,million kilowatt hours
+2015-02,US,U.S. Total,RES,residential,123837.72058,million kilowatt hours
+2015-02,US,U.S. Total,TRA,transportation,699.47787,million kilowatt hours
+2015-03,US,U.S. Total,ALL,all sectors,305351.76924,million kilowatt hours
+2015-03,US,U.S. Total,COM,commercial,107796.08358,million kilowatt hours
+2015-03,US,U.S. Total,IND,industrial,79709.106,million kilowatt hours
+2015-03,US,U.S. Total,RES,residential,117167.11068,million kilowatt hours
+2015-03,US,U.S. Total,TRA,transportation,679.46898,million kilowatt hours
+2015-04,US,U.S. Total,ALL,all sectors,275475.12077,million kilowatt hours
+2015-04,US,U.S. Total,COM,commercial,104167.79782,million kilowatt hours
+2015-04,US,U.S. Total,IND,industrial,80488.63267,million kilowatt hours
+2015-04,US,U.S. Total,RES,residential,90199.18738,million kilowatt hours
+2015-04,US,U.S. Total,TRA,transportation,619.50291,million kilowatt hours
+2015-05,US,U.S. Total,ALL,all sectors,288090.69944,million kilowatt hours
+2015-05,US,U.S. Total,COM,commercial,109405.65371,million kilowatt hours
+2015-05,US,U.S. Total,IND,industrial,82915.73893,million kilowatt hours
+2015-05,US,U.S. Total,RES,residential,95160.53288,million kilowatt hours
+2015-05,US,U.S. Total,TRA,transportation,608.77392,million kilowatt hours
+2015-06,US,U.S. Total,ALL,all sectors,326396.89785,million kilowatt hours
+2015-06,US,U.S. Total,COM,commercial,119270.12121,million kilowatt hours
+2015-06,US,U.S. Total,IND,industrial,86217.70376,million kilowatt hours
+2015-06,US,U.S. Total,RES,residential,120299.75351,million kilowatt hours
+2015-06,US,U.S. Total,TRA,transportation,609.31936,million kilowatt hours
+2015-07,US,U.S. Total,ALL,all sectors,362938.0669,million kilowatt hours
+2015-07,US,U.S. Total,COM,commercial,128504.25329,million kilowatt hours
+2015-07,US,U.S. Total,IND,industrial,87747.34656,million kilowatt hours
+2015-07,US,U.S. Total,RES,residential,146038.29057,million kilowatt hours
+2015-07,US,U.S. Total,TRA,transportation,648.17648,million kilowatt hours
+2015-08,US,U.S. Total,ALL,all sectors,362031.76805,million kilowatt hours
+2015-08,US,U.S. Total,COM,commercial,128518.92244,million kilowatt hours
+2015-08,US,U.S. Total,IND,industrial,88373.07421,million kilowatt hours
+2015-08,US,U.S. Total,RES,residential,144515.14459,million kilowatt hours
+2015-08,US,U.S. Total,TRA,transportation,624.6268,million kilowatt hours
+2015-09,US,U.S. Total,ALL,all sectors,332957.87525,million kilowatt hours
+2015-09,US,U.S. Total,COM,commercial,122195.40637,million kilowatt hours
+2015-09,US,U.S. Total,IND,industrial,84730.4842,million kilowatt hours
+2015-09,US,U.S. Total,RES,residential,125416.66628,million kilowatt hours
+2015-09,US,U.S. Total,TRA,transportation,615.3184,million kilowatt hours
+2015-10,US,U.S. Total,ALL,all sectors,296055.34617,million kilowatt hours
+2015-10,US,U.S. Total,COM,commercial,112821.48753,million kilowatt hours
+2015-10,US,U.S. Total,IND,industrial,83248.83116,million kilowatt hours
+2015-10,US,U.S. Total,RES,residential,99349.04737,million kilowatt hours
+2015-10,US,U.S. Total,TRA,transportation,635.98012,million kilowatt hours
+2015-11,US,U.S. Total,ALL,all sectors,275916.52883,million kilowatt hours
+2015-11,US,U.S. Total,COM,commercial,104140.23952,million kilowatt hours
+2015-11,US,U.S. Total,IND,industrial,78494.66844,million kilowatt hours
+2015-11,US,U.S. Total,RES,residential,92677.74922,million kilowatt hours
+2015-11,US,U.S. Total,TRA,transportation,603.87165,million kilowatt hours
+2015-12,US,U.S. Total,ALL,all sectors,297343.55649,million kilowatt hours
+2015-12,US,U.S. Total,COM,commercial,106829.42741,million kilowatt hours
+2015-12,US,U.S. Total,IND,industrial,78224.38108,million kilowatt hours
+2015-12,US,U.S. Total,RES,residential,111670.43689,million kilowatt hours
+2015-12,US,U.S. Total,TRA,transportation,619.3111,million kilowatt hours
+2016-01,US,U.S. Total,ALL,all sectors,320890.16476,million kilowatt hours
+2016-01,US,U.S. Total,COM,commercial,110410.4764,million kilowatt hours
+2016-01,US,U.S. Total,IND,industrial,78847.86312,million kilowatt hours
+2016-01,US,U.S. Total,RES,residential,130971.84829,million kilowatt hours
+2016-01,US,U.S. Total,TRA,transportation,659.97696,million kilowatt hours
+2016-02,US,U.S. Total,ALL,all sectors,296805.76317,million kilowatt hours
+2016-02,US,U.S. Total,COM,commercial,103451.68958,million kilowatt hours
+2016-02,US,U.S. Total,IND,industrial,76748.45904,million kilowatt hours
+2016-02,US,U.S. Total,RES,residential,115959.425,million kilowatt hours
+2016-02,US,U.S. Total,TRA,transportation,646.18955,million kilowatt hours
+2016-03,US,U.S. Total,ALL,all sectors,285812.35897,million kilowatt hours
+2016-03,US,U.S. Total,COM,commercial,105739.17841,million kilowatt hours
+2016-03,US,U.S. Total,IND,industrial,79237.36127,million kilowatt hours
+2016-03,US,U.S. Total,RES,residential,100226.57541,million kilowatt hours
+2016-03,US,U.S. Total,TRA,transportation,609.24388,million kilowatt hours
+2016-04,US,U.S. Total,ALL,all sectors,269531.2373,million kilowatt hours
+2016-04,US,U.S. Total,COM,commercial,102045.12866,million kilowatt hours
+2016-04,US,U.S. Total,IND,industrial,78646.72682,million kilowatt hours
+2016-04,US,U.S. Total,RES,residential,88244.34036,million kilowatt hours
+2016-04,US,U.S. Total,TRA,transportation,595.04145,million kilowatt hours
+2016-05,US,U.S. Total,ALL,all sectors,284707.64149,million kilowatt hours
+2016-05,US,U.S. Total,COM,commercial,108436.89218,million kilowatt hours
+2016-05,US,U.S. Total,IND,industrial,81491.45601,million kilowatt hours
+2016-05,US,U.S. Total,RES,residential,94198.0297,million kilowatt hours
+2016-05,US,U.S. Total,TRA,transportation,581.26361,million kilowatt hours
+2016-06,US,U.S. Total,ALL,all sectors,329877.90515,million kilowatt hours
+2016-06,US,U.S. Total,COM,commercial,120363.27304,million kilowatt hours
+2016-06,US,U.S. Total,IND,industrial,83672.03383,million kilowatt hours
+2016-06,US,U.S. Total,RES,residential,125211.23945,million kilowatt hours
+2016-06,US,U.S. Total,TRA,transportation,631.35884,million kilowatt hours
+2016-07,US,U.S. Total,ALL,all sectors,372172.26806,million kilowatt hours
+2016-07,US,U.S. Total,COM,commercial,130038.31813,million kilowatt hours
+2016-07,US,U.S. Total,IND,industrial,87076.3985,million kilowatt hours
+2016-07,US,U.S. Total,RES,residential,154409.32698,million kilowatt hours
+2016-07,US,U.S. Total,TRA,transportation,648.22444,million kilowatt hours
+2016-08,US,U.S. Total,ALL,all sectors,381192.32814,million kilowatt hours
+2016-08,US,U.S. Total,COM,commercial,135018.84084,million kilowatt hours
+2016-08,US,U.S. Total,IND,industrial,89100.53838,million kilowatt hours
+2016-08,US,U.S. Total,RES,residential,156441.5236,million kilowatt hours
+2016-08,US,U.S. Total,TRA,transportation,631.42532,million kilowatt hours
+2016-09,US,U.S. Total,ALL,all sectors,336752.08609,million kilowatt hours
+2016-09,US,U.S. Total,COM,commercial,123492.82377,million kilowatt hours
+2016-09,US,U.S. Total,IND,industrial,83259.30744,million kilowatt hours
+2016-09,US,U.S. Total,RES,residential,129362.93162,million kilowatt hours
+2016-09,US,U.S. Total,TRA,transportation,637.02326,million kilowatt hours
+2016-10,US,U.S. Total,ALL,all sectors,296680.67052,million kilowatt hours
+2016-10,US,U.S. Total,COM,commercial,112962.81663,million kilowatt hours
+2016-10,US,U.S. Total,IND,industrial,81597.27214,million kilowatt hours
+2016-10,US,U.S. Total,RES,residential,101507.96582,million kilowatt hours
+2016-10,US,U.S. Total,TRA,transportation,612.61593,million kilowatt hours
+2016-11,US,U.S. Total,ALL,all sectors,277316.98036,million kilowatt hours
+2016-11,US,U.S. Total,COM,commercial,105059.86751,million kilowatt hours
+2016-11,US,U.S. Total,IND,industrial,78421.43195,million kilowatt hours
+2016-11,US,U.S. Total,RES,residential,93244.09126,million kilowatt hours
+2016-11,US,U.S. Total,TRA,transportation,591.58965,million kilowatt hours
+2016-12,US,U.S. Total,ALL,all sectors,310722.22579,million kilowatt hours
+2016-12,US,U.S. Total,COM,commercial,110172.08074,million kilowatt hours
+2016-12,US,U.S. Total,IND,industrial,78616.33246,million kilowatt hours
+2016-12,US,U.S. Total,RES,residential,121280.85551,million kilowatt hours
+2016-12,US,U.S. Total,TRA,transportation,652.95709,million kilowatt hours
+2017-01,US,U.S. Total,ALL,all sectors,318177.17905,million kilowatt hours
+2017-01,US,U.S. Total,COM,commercial,109488.38655,million kilowatt hours
+2017-01,US,U.S. Total,IND,industrial,78809.11338,million kilowatt hours
+2017-01,US,U.S. Total,RES,residential,129212.49867,million kilowatt hours
+2017-01,US,U.S. Total,TRA,transportation,667.18045,million kilowatt hours
+2017-02,US,U.S. Total,ALL,all sectors,275777.13545,million kilowatt hours
+2017-02,US,U.S. Total,COM,commercial,99639.93551,million kilowatt hours
+2017-02,US,U.S. Total,IND,industrial,74533.79401,million kilowatt hours
+2017-02,US,U.S. Total,RES,residential,100968.2357,million kilowatt hours
+2017-02,US,U.S. Total,TRA,transportation,635.17024,million kilowatt hours
+2017-03,US,U.S. Total,ALL,all sectors,291443.63704,million kilowatt hours
+2017-03,US,U.S. Total,COM,commercial,107172.86432,million kilowatt hours
+2017-03,US,U.S. Total,IND,industrial,80530.22476,million kilowatt hours
+2017-03,US,U.S. Total,RES,residential,103095.52026,million kilowatt hours
+2017-03,US,U.S. Total,TRA,transportation,645.02771,million kilowatt hours
+2017-04,US,U.S. Total,ALL,all sectors,272801.15774,million kilowatt hours
+2017-04,US,U.S. Total,COM,commercial,102589.04963,million kilowatt hours
+2017-04,US,U.S. Total,IND,industrial,78898.55775,million kilowatt hours
+2017-04,US,U.S. Total,RES,residential,90724.50386,million kilowatt hours
+2017-04,US,U.S. Total,TRA,transportation,589.0465,million kilowatt hours
+2017-05,US,U.S. Total,ALL,all sectors,291870.53765,million kilowatt hours
+2017-05,US,U.S. Total,COM,commercial,109872.0998,million kilowatt hours
+2017-05,US,U.S. Total,IND,industrial,83134.47026,million kilowatt hours
+2017-05,US,U.S. Total,RES,residential,98281.15882,million kilowatt hours
+2017-05,US,U.S. Total,TRA,transportation,582.80876,million kilowatt hours
+2017-06,US,U.S. Total,ALL,all sectors,328582.61458,million kilowatt hours
+2017-06,US,U.S. Total,COM,commercial,120013.1553,million kilowatt hours
+2017-06,US,U.S. Total,IND,industrial,85398.53829,million kilowatt hours
+2017-06,US,U.S. Total,RES,residential,122543.16906,million kilowatt hours
+2017-06,US,U.S. Total,TRA,transportation,627.75193,million kilowatt hours
+2017-07,US,U.S. Total,ALL,all sectors,367613.0216,million kilowatt hours
+2017-07,US,U.S. Total,COM,commercial,129276.62303,million kilowatt hours
+2017-07,US,U.S. Total,IND,industrial,87806.13189,million kilowatt hours
+2017-07,US,U.S. Total,RES,residential,149900.48178,million kilowatt hours
+2017-07,US,U.S. Total,TRA,transportation,629.7849,million kilowatt hours
+2017-08,US,U.S. Total,ALL,all sectors,360262.61916,million kilowatt hours
+2017-08,US,U.S. Total,COM,commercial,128481.00787,million kilowatt hours
+2017-08,US,U.S. Total,IND,industrial,89134.44287,million kilowatt hours
+2017-08,US,U.S. Total,RES,residential,142007.16653,million kilowatt hours
+2017-08,US,U.S. Total,TRA,transportation,640.00189,million kilowatt hours
+2017-09,US,U.S. Total,ALL,all sectors,321725.81017,million kilowatt hours
+2017-09,US,U.S. Total,COM,commercial,118788.75907,million kilowatt hours
+2017-09,US,U.S. Total,IND,industrial,83540.14022,million kilowatt hours
+2017-09,US,U.S. Total,RES,residential,118778.78233,million kilowatt hours
+2017-09,US,U.S. Total,TRA,transportation,618.12856,million kilowatt hours
+2017-10,US,U.S. Total,ALL,all sectors,299539.47902,million kilowatt hours
+2017-10,US,U.S. Total,COM,commercial,113287.1917,million kilowatt hours
+2017-10,US,U.S. Total,IND,industrial,82815.13063,million kilowatt hours
+2017-10,US,U.S. Total,RES,residential,102811.04302,million kilowatt hours
+2017-10,US,U.S. Total,TRA,transportation,626.11367,million kilowatt hours
+2017-11,US,U.S. Total,ALL,all sectors,283347.00055,million kilowatt hours
+2017-11,US,U.S. Total,COM,commercial,104973.10002,million kilowatt hours
+2017-11,US,U.S. Total,IND,industrial,79455.59181,million kilowatt hours
+2017-11,US,U.S. Total,RES,residential,98320.56549,million kilowatt hours
+2017-11,US,U.S. Total,TRA,transportation,597.74323,million kilowatt hours
+2017-12,US,U.S. Total,ALL,all sectors,312215.78198,million kilowatt hours
+2017-12,US,U.S. Total,COM,commercial,109305.5211,million kilowatt hours
+2017-12,US,U.S. Total,IND,industrial,80241.80912,million kilowatt hours
+2017-12,US,U.S. Total,RES,residential,122004.61658,million kilowatt hours
+2017-12,US,U.S. Total,TRA,transportation,663.83518,million kilowatt hours
+2018-01,US,U.S. Total,ALL,all sectors,344477.68735,million kilowatt hours
+2018-01,US,U.S. Total,COM,commercial,114925.25918,million kilowatt hours
+2018-01,US,U.S. Total,IND,industrial,79889.79117,million kilowatt hours
+2018-01,US,U.S. Total,RES,residential,148917.3837,million kilowatt hours
+2018-01,US,U.S. Total,TRA,transportation,745.2533,million kilowatt hours
+2018-02,US,U.S. Total,ALL,all sectors,292732.28568,million kilowatt hours
+2018-02,US,U.S. Total,COM,commercial,102685.44876,million kilowatt hours
+2018-02,US,U.S. Total,IND,industrial,75661.18887,million kilowatt hours
+2018-02,US,U.S. Total,RES,residential,113751.28019,million kilowatt hours
+2018-02,US,U.S. Total,TRA,transportation,634.36787,million kilowatt hours
+2018-03,US,U.S. Total,ALL,all sectors,296999.30431,million kilowatt hours
+2018-03,US,U.S. Total,COM,commercial,108108.34274,million kilowatt hours
+2018-03,US,U.S. Total,IND,industrial,81052.92676,million kilowatt hours
+2018-03,US,U.S. Total,RES,residential,107218.43099,million kilowatt hours
+2018-03,US,U.S. Total,TRA,transportation,619.60382,million kilowatt hours
+2018-04,US,U.S. Total,ALL,all sectors,278467.98771,million kilowatt hours
+2018-04,US,U.S. Total,COM,commercial,103331.47962,million kilowatt hours
+2018-04,US,U.S. Total,IND,industrial,79083.41885,million kilowatt hours
+2018-04,US,U.S. Total,RES,residential,95453.61577,million kilowatt hours
+2018-04,US,U.S. Total,TRA,transportation,599.47348,million kilowatt hours
+2018-05,US,U.S. Total,ALL,all sectors,303248.00751,million kilowatt hours
+2018-05,US,U.S. Total,COM,commercial,113175.48258,million kilowatt hours
+2018-05,US,U.S. Total,IND,industrial,85637.64704,million kilowatt hours
+2018-05,US,U.S. Total,RES,residential,103847.99899,million kilowatt hours
+2018-05,US,U.S. Total,TRA,transportation,586.8789,million kilowatt hours
+2018-06,US,U.S. Total,ALL,all sectors,338082.98543,million kilowatt hours
+2018-06,US,U.S. Total,COM,commercial,122011.1754,million kilowatt hours
+2018-06,US,U.S. Total,IND,industrial,85536.24101,million kilowatt hours
+2018-06,US,U.S. Total,RES,residential,129912.8992,million kilowatt hours
+2018-06,US,U.S. Total,TRA,transportation,622.66982,million kilowatt hours
+2018-07,US,U.S. Total,ALL,all sectors,375023.42713,million kilowatt hours
+2018-07,US,U.S. Total,COM,commercial,131521.57202,million kilowatt hours
+2018-07,US,U.S. Total,IND,industrial,89301.35668,million kilowatt hours
+2018-07,US,U.S. Total,RES,residential,153566.05021,million kilowatt hours
+2018-07,US,U.S. Total,TRA,transportation,634.44822,million kilowatt hours
+2018-08,US,U.S. Total,ALL,all sectors,381130.62934,million kilowatt hours
+2018-08,US,U.S. Total,COM,commercial,134848.07012,million kilowatt hours
+2018-08,US,U.S. Total,IND,industrial,92105.75136,million kilowatt hours
+2018-08,US,U.S. Total,RES,residential,153496.49426,million kilowatt hours
+2018-08,US,U.S. Total,TRA,transportation,680.31361,million kilowatt hours
+2018-09,US,U.S. Total,ALL,all sectors,337262.54868,million kilowatt hours
+2018-09,US,U.S. Total,COM,commercial,122033.47842,million kilowatt hours
+2018-09,US,U.S. Total,IND,industrial,85678.99407,million kilowatt hours
+2018-09,US,U.S. Total,RES,residential,128909.79255,million kilowatt hours
+2018-09,US,U.S. Total,TRA,transportation,640.28363,million kilowatt hours
+2018-10,US,U.S. Total,ALL,all sectors,309113.58697,million kilowatt hours
+2018-10,US,U.S. Total,COM,commercial,116133.34132,million kilowatt hours
+2018-10,US,U.S. Total,IND,industrial,85300.74348,million kilowatt hours
+2018-10,US,U.S. Total,RES,residential,107048.75285,million kilowatt hours
+2018-10,US,U.S. Total,TRA,transportation,630.74932,million kilowatt hours
+2018-11,US,U.S. Total,ALL,all sectors,290507.09977,million kilowatt hours
+2018-11,US,U.S. Total,COM,commercial,104983.1121,million kilowatt hours
+2018-11,US,U.S. Total,IND,industrial,81118.3574,million kilowatt hours
+2018-11,US,U.S. Total,RES,residential,103789.9565,million kilowatt hours
+2018-11,US,U.S. Total,TRA,transportation,615.67378,million kilowatt hours
+2018-12,US,U.S. Total,ALL,all sectors,312139.71096,million kilowatt hours
+2018-12,US,U.S. Total,COM,commercial,107998.08271,million kilowatt hours
+2018-12,US,U.S. Total,IND,industrial,80306.13626,million kilowatt hours
+2018-12,US,U.S. Total,RES,residential,123180.40374,million kilowatt hours
+2018-12,US,U.S. Total,TRA,transportation,655.08826,million kilowatt hours
+2019-01,US,U.S. Total,ALL,all sectors,328609.25104,million kilowatt hours
+2019-01,US,U.S. Total,COM,commercial,112012.38825,million kilowatt hours
+2019-01,US,U.S. Total,IND,industrial,82609.75692,million kilowatt hours
+2019-01,US,U.S. Total,RES,residential,133317.55017,million kilowatt hours
+2019-01,US,U.S. Total,TRA,transportation,669.55571,million kilowatt hours
+2019-02,US,U.S. Total,ALL,all sectors,295797.69323,million kilowatt hours
+2019-02,US,U.S. Total,COM,commercial,102070.87863,million kilowatt hours
+2019-02,US,U.S. Total,IND,industrial,76447.26277,million kilowatt hours
+2019-02,US,U.S. Total,RES,residential,116608.00237,million kilowatt hours
+2019-02,US,U.S. Total,TRA,transportation,671.54947,million kilowatt hours
+2019-03,US,U.S. Total,ALL,all sectors,301852.69315,million kilowatt hours
+2019-03,US,U.S. Total,COM,commercial,107468.19984,million kilowatt hours
+2019-03,US,U.S. Total,IND,industrial,81092.831,million kilowatt hours
+2019-03,US,U.S. Total,RES,residential,112605.41506,million kilowatt hours
+2019-03,US,U.S. Total,TRA,transportation,686.24725,million kilowatt hours
+2019-04,US,U.S. Total,ALL,all sectors,273899.83766,million kilowatt hours
+2019-04,US,U.S. Total,COM,commercial,102445.9396,million kilowatt hours
+2019-04,US,U.S. Total,IND,industrial,80459.75842,million kilowatt hours
+2019-04,US,U.S. Total,RES,residential,90383.8218,million kilowatt hours
+2019-04,US,U.S. Total,TRA,transportation,610.31785,million kilowatt hours
+2019-05,US,U.S. Total,ALL,all sectors,296801.73615,million kilowatt hours
+2019-05,US,U.S. Total,COM,commercial,111200.9527,million kilowatt hours
+2019-05,US,U.S. Total,IND,industrial,84661.29301,million kilowatt hours
+2019-05,US,U.S. Total,RES,residential,100331.07128,million kilowatt hours
+2019-05,US,U.S. Total,TRA,transportation,608.41917,million kilowatt hours
+2019-06,US,U.S. Total,ALL,all sectors,321461.60493,million kilowatt hours
+2019-06,US,U.S. Total,COM,commercial,115745.02702,million kilowatt hours
+2019-06,US,U.S. Total,IND,industrial,84991.9946,million kilowatt hours
+2019-06,US,U.S. Total,RES,residential,120116.16993,million kilowatt hours
+2019-06,US,U.S. Total,TRA,transportation,608.41339,million kilowatt hours
+2019-07,US,U.S. Total,ALL,all sectors,376094.82072,million kilowatt hours
+2019-07,US,U.S. Total,COM,commercial,130951.45258,million kilowatt hours
+2019-07,US,U.S. Total,IND,industrial,90752.18668,million kilowatt hours
+2019-07,US,U.S. Total,RES,residential,153748.88906,million kilowatt hours
+2019-07,US,U.S. Total,TRA,transportation,642.29241,million kilowatt hours
+2019-08,US,U.S. Total,ALL,all sectors,372574.08721,million kilowatt hours
+2019-08,US,U.S. Total,COM,commercial,130776.1738,million kilowatt hours
+2019-08,US,U.S. Total,IND,industrial,91061.84215,million kilowatt hours
+2019-08,US,U.S. Total,RES,residential,150083.05574,million kilowatt hours
+2019-08,US,U.S. Total,TRA,transportation,653.01553,million kilowatt hours
+2019-09,US,U.S. Total,ALL,all sectors,340462.80117,million kilowatt hours
+2019-09,US,U.S. Total,COM,commercial,122059.1507,million kilowatt hours
+2019-09,US,U.S. Total,IND,industrial,86160.37695,million kilowatt hours
+2019-09,US,U.S. Total,RES,residential,131566.72667,million kilowatt hours
+2019-09,US,U.S. Total,TRA,transportation,676.54685,million kilowatt hours
+2019-10,US,U.S. Total,ALL,all sectors,308241.20549,million kilowatt hours
+2019-10,US,U.S. Total,COM,commercial,115304.90269,million kilowatt hours
+2019-10,US,U.S. Total,IND,industrial,84396.13735,million kilowatt hours
+2019-10,US,U.S. Total,RES,residential,107997.2082,million kilowatt hours
+2019-10,US,U.S. Total,TRA,transportation,542.95726,million kilowatt hours
+2019-11,US,U.S. Total,ALL,all sectors,285532.04149,million kilowatt hours
+2019-11,US,U.S. Total,COM,commercial,102840.01355,million kilowatt hours
+2019-11,US,U.S. Total,IND,industrial,79624.66409,million kilowatt hours
+2019-11,US,U.S. Total,RES,residential,102452.92208,million kilowatt hours
+2019-11,US,U.S. Total,TRA,transportation,614.44177,million kilowatt hours
+2019-12,US,U.S. Total,ALL,all sectors,309822.6908,million kilowatt hours
+2019-12,US,U.S. Total,COM,commercial,108001.47569,million kilowatt hours
+2019-12,US,U.S. Total,IND,industrial,80094.7451,million kilowatt hours
+2019-12,US,U.S. Total,RES,residential,121078.07664,million kilowatt hours
+2019-12,US,U.S. Total,TRA,transportation,648.39337,million kilowatt hours
+2020-01,US,U.S. Total,ALL,all sectors,315532.78974,million kilowatt hours
+2020-01,US,U.S. Total,COM,commercial,109812.19558,million kilowatt hours
+2020-01,US,U.S. Total,IND,industrial,80608.51254,million kilowatt hours
+2020-01,US,U.S. Total,RES,residential,124442.2113,million kilowatt hours
+2020-01,US,U.S. Total,TRA,transportation,669.87033,million kilowatt hours
+2020-02,US,U.S. Total,ALL,all sectors,294659.40487,million kilowatt hours
+2020-02,US,U.S. Total,COM,commercial,103014.76876,million kilowatt hours
+2020-02,US,U.S. Total,IND,industrial,78902.73171,million kilowatt hours
+2020-02,US,U.S. Total,RES,residential,112122.8819,million kilowatt hours
+2020-02,US,U.S. Total,TRA,transportation,619.0225,million kilowatt hours
+2020-03,US,U.S. Total,ALL,all sectors,289893.78032,million kilowatt hours
+2020-03,US,U.S. Total,COM,commercial,104109.84326,million kilowatt hours
+2020-03,US,U.S. Total,IND,industrial,80930.61592,million kilowatt hours
+2020-03,US,U.S. Total,RES,residential,104254.94269,million kilowatt hours
+2020-03,US,U.S. Total,TRA,transportation,598.37845,million kilowatt hours
+2020-04,US,U.S. Total,ALL,all sectors,262400.56179,million kilowatt hours
+2020-04,US,U.S. Total,COM,commercial,91405.77238,million kilowatt hours
+2020-04,US,U.S. Total,IND,industrial,72791.10205,million kilowatt hours
+2020-04,US,U.S. Total,RES,residential,97759.20304,million kilowatt hours
+2020-04,US,U.S. Total,TRA,transportation,444.48431,million kilowatt hours
+2020-05,US,U.S. Total,ALL,all sectors,274707.0812,million kilowatt hours
+2020-05,US,U.S. Total,COM,commercial,94299.1629,million kilowatt hours
+2020-05,US,U.S. Total,IND,industrial,74273.01032,million kilowatt hours
+2020-05,US,U.S. Total,RES,residential,105680.94308,million kilowatt hours
+2020-05,US,U.S. Total,TRA,transportation,453.96491,million kilowatt hours
+2020-06,US,U.S. Total,ALL,all sectors,320055.72389,million kilowatt hours
+2020-06,US,U.S. Total,COM,commercial,109592.71987,million kilowatt hours
+2020-06,US,U.S. Total,IND,industrial,78444.67875,million kilowatt hours
+2020-06,US,U.S. Total,RES,residential,131538.05061,million kilowatt hours
+2020-06,US,U.S. Total,TRA,transportation,480.27467,million kilowatt hours
+2020-07,US,U.S. Total,ALL,all sectors,379530.04105,million kilowatt hours
+2020-07,US,U.S. Total,COM,commercial,127107.48118,million kilowatt hours
+2020-07,US,U.S. Total,IND,industrial,84758.37954,million kilowatt hours
+2020-07,US,U.S. Total,RES,residential,167108.14157,million kilowatt hours
+2020-07,US,U.S. Total,TRA,transportation,556.03878,million kilowatt hours
+2020-08,US,U.S. Total,ALL,all sectors,368884.50417,million kilowatt hours
+2020-08,US,U.S. Total,COM,commercial,123056.88421,million kilowatt hours
+2020-08,US,U.S. Total,IND,industrial,86366.13013,million kilowatt hours
+2020-08,US,U.S. Total,RES,residential,158939.14743,million kilowatt hours
+2020-08,US,U.S. Total,TRA,transportation,522.34241,million kilowatt hours
+2020-09,US,U.S. Total,ALL,all sectors,322554.51332,million kilowatt hours
+2020-09,US,U.S. Total,COM,commercial,113219.74254,million kilowatt hours
+2020-09,US,U.S. Total,IND,industrial,80976.88954,million kilowatt hours
+2020-09,US,U.S. Total,RES,residential,127823.89319,million kilowatt hours
+2020-09,US,U.S. Total,TRA,transportation,533.98806,million kilowatt hours
+2020-10,US,U.S. Total,ALL,all sectors,296876.57754,million kilowatt hours
+2020-10,US,U.S. Total,COM,commercial,108468.18854,million kilowatt hours
+2020-10,US,U.S. Total,IND,industrial,82371.38049,million kilowatt hours
+2020-10,US,U.S. Total,RES,residential,105513.9361,million kilowatt hours
+2020-10,US,U.S. Total,TRA,transportation,523.07241,million kilowatt hours
+2020-11,US,U.S. Total,ALL,all sectors,277249.20095,million kilowatt hours
+2020-11,US,U.S. Total,COM,commercial,97896.62004,million kilowatt hours
+2020-11,US,U.S. Total,IND,industrial,79166.79619,million kilowatt hours
+2020-11,US,U.S. Total,RES,residential,99660.93654,million kilowatt hours
+2020-11,US,U.S. Total,TRA,transportation,524.84819,million kilowatt hours
+2020-12,US,U.S. Total,ALL,all sectors,315330.30203,million kilowatt hours
+2020-12,US,U.S. Total,COM,commercial,105456.20387,million kilowatt hours
+2020-12,US,U.S. Total,IND,industrial,79491.80083,million kilowatt hours
+2020-12,US,U.S. Total,RES,residential,129760.75834,million kilowatt hours
+2020-12,US,U.S. Total,TRA,transportation,621.539,million kilowatt hours
+2021-01,US,U.S. Total,ALL,all sectors,321496.47552,million kilowatt hours
+2021-01,US,U.S. Total,COM,commercial,104497.64717,million kilowatt hours
+2021-01,US,U.S. Total,IND,industrial,79749.53023,million kilowatt hours
+2021-01,US,U.S. Total,RES,residential,136682.35148,million kilowatt hours
+2021-01,US,U.S. Total,TRA,transportation,566.94665,million kilowatt hours
+2021-02,US,U.S. Total,ALL,all sectors,299698.03448,million kilowatt hours
+2021-02,US,U.S. Total,COM,commercial,98355.67733,million kilowatt hours
+2021-02,US,U.S. Total,IND,industrial,74245.26189,million kilowatt hours
+2021-02,US,U.S. Total,RES,residential,126549.55737,million kilowatt hours
+2021-02,US,U.S. Total,TRA,transportation,547.5379,million kilowatt hours
+2021-03,US,U.S. Total,ALL,all sectors,295345.00171,million kilowatt hours
+2021-03,US,U.S. Total,COM,commercial,102877.23442,million kilowatt hours
+2021-03,US,U.S. Total,IND,industrial,77551.52192,million kilowatt hours
+2021-03,US,U.S. Total,RES,residential,114373.98006,million kilowatt hours
+2021-03,US,U.S. Total,TRA,transportation,542.26531,million kilowatt hours
+2021-04,US,U.S. Total,ALL,all sectors,272778.6964,million kilowatt hours
+2021-04,US,U.S. Total,COM,commercial,98721.37911,million kilowatt hours
+2021-04,US,U.S. Total,IND,industrial,79660.85904,million kilowatt hours
+2021-04,US,U.S. Total,RES,residential,93890.87998,million kilowatt hours
+2021-04,US,U.S. Total,TRA,transportation,505.57828,million kilowatt hours
+2021-05,US,U.S. Total,ALL,all sectors,290060.60198,million kilowatt hours
+2021-05,US,U.S. Total,COM,commercial,104711.2089,million kilowatt hours
+2021-05,US,U.S. Total,IND,industrial,83702.51056,million kilowatt hours
+2021-05,US,U.S. Total,RES,residential,101160.29411,million kilowatt hours
+2021-05,US,U.S. Total,TRA,transportation,486.58841,million kilowatt hours
+2021-06,US,U.S. Total,ALL,all sectors,338415.38015,million kilowatt hours
+2021-06,US,U.S. Total,COM,commercial,119052.69114,million kilowatt hours
+2021-06,US,U.S. Total,IND,industrial,86701.60938,million kilowatt hours
+2021-06,US,U.S. Total,RES,residential,132153.48565,million kilowatt hours
+2021-06,US,U.S. Total,TRA,transportation,507.59398,million kilowatt hours
+2021-07,US,U.S. Total,ALL,all sectors,373948.29907,million kilowatt hours
+2021-07,US,U.S. Total,COM,commercial,127855.73402,million kilowatt hours
+2021-07,US,U.S. Total,IND,industrial,91052.25211,million kilowatt hours
+2021-07,US,U.S. Total,RES,residential,154494.57173,million kilowatt hours
+2021-07,US,U.S. Total,TRA,transportation,545.74121,million kilowatt hours
+2021-08,US,U.S. Total,ALL,all sectors,381039.30375,million kilowatt hours
+2021-08,US,U.S. Total,COM,commercial,131111.12131,million kilowatt hours
+2021-08,US,U.S. Total,IND,industrial,91576.36666,million kilowatt hours
+2021-08,US,U.S. Total,RES,residential,157791.77207,million kilowatt hours
+2021-08,US,U.S. Total,TRA,transportation,560.04372,million kilowatt hours
+2021-09,US,U.S. Total,ALL,all sectors,336444.01047,million kilowatt hours
+2021-09,US,U.S. Total,COM,commercial,118988.68357,million kilowatt hours
+2021-09,US,U.S. Total,IND,industrial,85817.13957,million kilowatt hours
+2021-09,US,U.S. Total,RES,residential,131111.30373,million kilowatt hours
+2021-09,US,U.S. Total,TRA,transportation,526.8836,million kilowatt hours
+2021-10,US,U.S. Total,ALL,all sectors,302127.47063,million kilowatt hours
+2021-10,US,U.S. Total,COM,commercial,112246.47542,million kilowatt hours
+2021-10,US,U.S. Total,IND,industrial,85355.96905,million kilowatt hours
+2021-10,US,U.S. Total,RES,residential,103992.2144,million kilowatt hours
+2021-10,US,U.S. Total,TRA,transportation,532.81177,million kilowatt hours
+2021-11,US,U.S. Total,ALL,all sectors,287133.80021,million kilowatt hours
+2021-11,US,U.S. Total,COM,commercial,103506.07833,million kilowatt hours
+2021-11,US,U.S. Total,IND,industrial,82545.23505,million kilowatt hours
+2021-11,US,U.S. Total,RES,residential,100590.96639,million kilowatt hours
+2021-11,US,U.S. Total,TRA,transportation,491.52045,million kilowatt hours
+2021-12,US,U.S. Total,ALL,all sectors,307387.1788,million kilowatt hours
+2021-12,US,U.S. Total,COM,commercial,106515.56744,million kilowatt hours
+2021-12,US,U.S. Total,IND,industrial,82655.23457,million kilowatt hours
+2021-12,US,U.S. Total,RES,residential,117695.50509,million kilowatt hours
+2021-12,US,U.S. Total,TRA,transportation,520.87172,million kilowatt hours
+2022-01,US,U.S. Total,ALL,all sectors,338656.04633,million kilowatt hours
+2022-01,US,U.S. Total,COM,commercial,113605.09055,million kilowatt hours
+2022-01,US,U.S. Total,IND,industrial,83982.00591,million kilowatt hours
+2022-01,US,U.S. Total,RES,residential,140504.06917,million kilowatt hours
+2022-01,US,U.S. Total,TRA,transportation,564.88069,million kilowatt hours
+2022-02,US,U.S. Total,ALL,all sectors,305863.07052,million kilowatt hours
+2022-02,US,U.S. Total,COM,commercial,103062.62117,million kilowatt hours
+2022-02,US,U.S. Total,IND,industrial,76892.52873,million kilowatt hours
+2022-02,US,U.S. Total,RES,residential,125342.30282,million kilowatt hours
+2022-02,US,U.S. Total,TRA,transportation,565.61781,million kilowatt hours
+2022-03,US,U.S. Total,ALL,all sectors,304300.02693,million kilowatt hours
+2022-03,US,U.S. Total,COM,commercial,108603.13762,million kilowatt hours
+2022-03,US,U.S. Total,IND,industrial,83679.08978,million kilowatt hours
+2022-03,US,U.S. Total,RES,residential,111438.58992,million kilowatt hours
+2022-03,US,U.S. Total,TRA,transportation,579.20961,million kilowatt hours
+2022-04,US,U.S. Total,ALL,all sectors,284932.86674,million kilowatt hours
+2022-04,US,U.S. Total,COM,commercial,104565.87141,million kilowatt hours
+2022-04,US,U.S. Total,IND,industrial,82422.10664,million kilowatt hours
+2022-04,US,U.S. Total,RES,residential,97431.84407,million kilowatt hours
+2022-04,US,U.S. Total,TRA,transportation,513.04462,million kilowatt hours
+2022-05,US,U.S. Total,ALL,all sectors,309696.95397,million kilowatt hours
+2022-05,US,U.S. Total,COM,commercial,113007.20865,million kilowatt hours
+2022-05,US,U.S. Total,IND,industrial,86089.69405,million kilowatt hours
+2022-05,US,U.S. Total,RES,residential,110070.73408,million kilowatt hours
+2022-05,US,U.S. Total,TRA,transportation,529.31719,million kilowatt hours
+2022-06,US,U.S. Total,ALL,all sectors,347106.33234,million kilowatt hours
+2022-06,US,U.S. Total,COM,commercial,121567.1717,million kilowatt hours
+2022-06,US,U.S. Total,IND,industrial,88715.71321,million kilowatt hours
+2022-06,US,U.S. Total,RES,residential,136310.28781,million kilowatt hours
+2022-06,US,U.S. Total,TRA,transportation,513.15962,million kilowatt hours
+2022-07,US,U.S. Total,ALL,all sectors,389214.17473,million kilowatt hours
+2022-07,US,U.S. Total,COM,commercial,133951.71136,million kilowatt hours
+2022-07,US,U.S. Total,IND,industrial,90419.84289,million kilowatt hours
+2022-07,US,U.S. Total,RES,residential,164276.57789,million kilowatt hours
+2022-07,US,U.S. Total,TRA,transportation,566.0426,million kilowatt hours
+2022-08,US,U.S. Total,ALL,all sectors,389626.2823,million kilowatt hours
+2022-08,US,U.S. Total,COM,commercial,135675.95261,million kilowatt hours
+2022-08,US,U.S. Total,IND,industrial,93143.14117,million kilowatt hours
+2022-08,US,U.S. Total,RES,residential,160271.46691,million kilowatt hours
+2022-08,US,U.S. Total,TRA,transportation,535.72161,million kilowatt hours
+2022-09,US,U.S. Total,ALL,all sectors,340543.84071,million kilowatt hours
+2022-09,US,U.S. Total,COM,commercial,124195.27519,million kilowatt hours
+2022-09,US,U.S. Total,IND,industrial,86549.52268,million kilowatt hours
+2022-09,US,U.S. Total,RES,residential,129241.3183,million kilowatt hours
+2022-09,US,U.S. Total,TRA,transportation,557.72454,million kilowatt hours
+2022-10,US,U.S. Total,ALL,all sectors,297195.94414,million kilowatt hours
+2022-10,US,U.S. Total,COM,commercial,111851.35754,million kilowatt hours
+2022-10,US,U.S. Total,IND,industrial,85017.015,million kilowatt hours
+2022-10,US,U.S. Total,RES,residential,99792.19117,million kilowatt hours
+2022-10,US,U.S. Total,TRA,transportation,535.38043,million kilowatt hours
+2022-11,US,U.S. Total,ALL,all sectors,292257.74617,million kilowatt hours
+2022-11,US,U.S. Total,COM,commercial,106857.96303,million kilowatt hours
+2022-11,US,U.S. Total,IND,industrial,81701.39939,million kilowatt hours
+2022-11,US,U.S. Total,RES,residential,103152.07773,million kilowatt hours
+2022-11,US,U.S. Total,TRA,transportation,546.30602,million kilowatt hours
+2022-12,US,U.S. Total,ALL,all sectors,327775.78446,million kilowatt hours
+2022-12,US,U.S. Total,COM,commercial,113929.45205,million kilowatt hours
+2022-12,US,U.S. Total,IND,industrial,81851.92666,million kilowatt hours
+2022-12,US,U.S. Total,RES,residential,131401.70248,million kilowatt hours
+2022-12,US,U.S. Total,TRA,transportation,592.70327,million kilowatt hours
+2023-01,US,U.S. Total,ALL,all sectors,325414.64493,million kilowatt hours
+2023-01,US,U.S. Total,COM,commercial,112789.71678,million kilowatt hours
+2023-01,US,U.S. Total,IND,industrial,80407.96007,million kilowatt hours
+2023-01,US,U.S. Total,RES,residential,131637.74262,million kilowatt hours
+2023-01,US,U.S. Total,TRA,transportation,579.22547,million kilowatt hours
+2023-02,US,U.S. Total,ALL,all sectors,292945.66208,million kilowatt hours
+2023-02,US,U.S. Total,COM,commercial,103830.28424,million kilowatt hours
+2023-02,US,U.S. Total,IND,industrial,76449.23685,million kilowatt hours
+2023-02,US,U.S. Total,RES,residential,112105.18081,million kilowatt hours
+2023-02,US,U.S. Total,TRA,transportation,560.96018,million kilowatt hours
+2023-03,US,U.S. Total,ALL,all sectors,306453.94244,million kilowatt hours
+2023-03,US,U.S. Total,COM,commercial,112642.96368,million kilowatt hours
+2023-03,US,U.S. Total,IND,industrial,82817.07913,million kilowatt hours
+2023-03,US,U.S. Total,RES,residential,110416.92317,million kilowatt hours
+2023-03,US,U.S. Total,TRA,transportation,576.97647,million kilowatt hours
+2023-04,US,U.S. Total,ALL,all sectors,280811.14791,million kilowatt hours
+2023-04,US,U.S. Total,COM,commercial,104090.76444,million kilowatt hours
+2023-04,US,U.S. Total,IND,industrial,80011.06253,million kilowatt hours
+2023-04,US,U.S. Total,RES,residential,96195.85958,million kilowatt hours
+2023-04,US,U.S. Total,TRA,transportation,513.46136,million kilowatt hours
+2023-05,US,U.S. Total,ALL,all sectors,298705.56959,million kilowatt hours
+2023-05,US,U.S. Total,COM,commercial,113242.71738,million kilowatt hours
+2023-05,US,U.S. Total,IND,industrial,84703.57574,million kilowatt hours
+2023-05,US,U.S. Total,RES,residential,100230.51299,million kilowatt hours
+2023-05,US,U.S. Total,TRA,transportation,528.76348,million kilowatt hours
+2023-06,US,U.S. Total,ALL,all sectors,328798.08365,million kilowatt hours
+2023-06,US,U.S. Total,COM,commercial,120706.58417,million kilowatt hours
+2023-06,US,U.S. Total,IND,industrial,86193.14599,million kilowatt hours
+2023-06,US,U.S. Total,RES,residential,121319.611,million kilowatt hours
+2023-06,US,U.S. Total,TRA,transportation,578.7425,million kilowatt hours
+2023-07,US,U.S. Total,ALL,all sectors,387256.1072,million kilowatt hours
+2023-07,US,U.S. Total,COM,commercial,136394.20263,million kilowatt hours
+2023-07,US,U.S. Total,IND,industrial,90526.45351,million kilowatt hours
+2023-07,US,U.S. Total,RES,residential,159714.83353,million kilowatt hours
+2023-07,US,U.S. Total,TRA,transportation,620.61753,million kilowatt hours
+2023-08,US,U.S. Total,ALL,all sectors,392436.03404,million kilowatt hours
+2023-08,US,U.S. Total,COM,commercial,138389.57188,million kilowatt hours
+2023-08,US,U.S. Total,IND,industrial,92008.70522,million kilowatt hours
+2023-08,US,U.S. Total,RES,residential,161460.19193,million kilowatt hours
+2023-08,US,U.S. Total,TRA,transportation,577.56501,million kilowatt hours
+2023-09,US,U.S. Total,ALL,all sectors,346476.44135,million kilowatt hours
+2023-09,US,U.S. Total,COM,commercial,126545.78749,million kilowatt hours
+2023-09,US,U.S. Total,IND,industrial,86472.08044,million kilowatt hours
+2023-09,US,U.S. Total,RES,residential,132807.00629,million kilowatt hours
+2023-09,US,U.S. Total,TRA,transportation,651.56712,million kilowatt hours
+2023-10,US,U.S. Total,ALL,all sectors,308065.40868,million kilowatt hours
+2023-10,US,U.S. Total,COM,commercial,118207.85264,million kilowatt hours
+2023-10,US,U.S. Total,IND,industrial,85978.38096,million kilowatt hours
+2023-10,US,U.S. Total,RES,residential,103313.77418,million kilowatt hours
+2023-10,US,U.S. Total,TRA,transportation,565.4009,million kilowatt hours
+2023-11,US,U.S. Total,ALL,all sectors,294248.48557,million kilowatt hours
+2023-11,US,U.S. Total,COM,commercial,109756.4832,million kilowatt hours
+2023-11,US,U.S. Total,IND,industrial,82036.2777,million kilowatt hours
+2023-11,US,U.S. Total,RES,residential,101906.58739,million kilowatt hours
+2023-11,US,U.S. Total,TRA,transportation,549.13729,million kilowatt hours
+2023-12,US,U.S. Total,ALL,all sectors,312641.83476,million kilowatt hours
+2023-12,US,U.S. Total,COM,commercial,111511.82661,million kilowatt hours
+2023-12,US,U.S. Total,IND,industrial,81651.67602,million kilowatt hours
+2023-12,US,U.S. Total,RES,residential,118916.96042,million kilowatt hours
+2023-12,US,U.S. Total,TRA,transportation,561.37171,million kilowatt hours
+2024-01,US,U.S. Total,ALL,all sectors,343716.52172,million kilowatt hours
+2024-01,US,U.S. Total,COM,commercial,118234.00579,million kilowatt hours
+2024-01,US,U.S. Total,IND,industrial,82517.33102,million kilowatt hours
+2024-01,US,U.S. Total,RES,residential,142353.52686,million kilowatt hours
+2024-01,US,U.S. Total,TRA,transportation,611.65804,million kilowatt hours
+2024-02,US,U.S. Total,ALL,all sectors,303258.34281,million kilowatt hours
+2024-02,US,U.S. Total,COM,commercial,108966.66608,million kilowatt hours
+2024-02,US,U.S. Total,IND,industrial,78276.67916,million kilowatt hours
+2024-02,US,U.S. Total,RES,residential,115477.19179,million kilowatt hours
+2024-02,US,U.S. Total,TRA,transportation,537.80578,million kilowatt hours
+2024-03,US,U.S. Total,ALL,all sectors,297278.27618,million kilowatt hours
+2024-03,US,U.S. Total,COM,commercial,111382.31369,million kilowatt hours
+2024-03,US,U.S. Total,IND,industrial,83100.0825,million kilowatt hours
+2024-03,US,U.S. Total,RES,residential,102203.04497,million kilowatt hours
+2024-03,US,U.S. Total,TRA,transportation,592.83502,million kilowatt hours
+2024-04,US,U.S. Total,ALL,all sectors,286256.79709,million kilowatt hours
+2024-04,US,U.S. Total,COM,commercial,108972.49159,million kilowatt hours
+2024-04,US,U.S. Total,IND,industrial,82078.05685,million kilowatt hours
+2024-04,US,U.S. Total,RES,residential,94674.02447,million kilowatt hours
+2024-04,US,U.S. Total,TRA,transportation,532.22419,million kilowatt hours
+2024-05,US,U.S. Total,ALL,all sectors,313961.45312,million kilowatt hours
+2024-05,US,U.S. Total,COM,commercial,117863.68825,million kilowatt hours
+2024-05,US,U.S. Total,IND,industrial,87901.10025,million kilowatt hours
+2024-05,US,U.S. Total,RES,residential,107604.71543,million kilowatt hours
+2024-05,US,U.S. Total,TRA,transportation,591.94918,million kilowatt hours
+2024-06,US,U.S. Total,ALL,all sectors,355881.96752,million kilowatt hours
+2024-06,US,U.S. Total,COM,commercial,127949.05253,million kilowatt hours
+2024-06,US,U.S. Total,IND,industrial,88445.98477,million kilowatt hours
+2024-06,US,U.S. Total,RES,residential,138920.46024,million kilowatt hours
+2024-06,US,U.S. Total,TRA,transportation,566.46998,million kilowatt hours
+2024-07,US,U.S. Total,ALL,all sectors,397872.58566,million kilowatt hours
+2024-07,US,U.S. Total,COM,commercial,139551.00436,million kilowatt hours
+2024-07,US,U.S. Total,IND,industrial,92847.60751,million kilowatt hours
+2024-07,US,U.S. Total,RES,residential,164833.24943,million kilowatt hours
+2024-07,US,U.S. Total,TRA,transportation,640.72436,million kilowatt hours
+2024-08,US,U.S. Total,ALL,all sectors,394199.46181,million kilowatt hours
+2024-08,US,U.S. Total,COM,commercial,140632.26455,million kilowatt hours
+2024-08,US,U.S. Total,IND,industrial,93847.51156,million kilowatt hours
+2024-08,US,U.S. Total,RES,residential,159098.42282,million kilowatt hours
+2024-08,US,U.S. Total,TRA,transportation,621.26288,million kilowatt hours
+2024-09,US,U.S. Total,ALL,all sectors,343070.70554,million kilowatt hours
+2024-09,US,U.S. Total,COM,commercial,127248.28887,million kilowatt hours
+2024-09,US,U.S. Total,IND,industrial,87919.71263,million kilowatt hours
+2024-09,US,U.S. Total,RES,residential,127340.05411,million kilowatt hours
+2024-09,US,U.S. Total,TRA,transportation,562.64992,million kilowatt hours
+2024-10,US,U.S. Total,ALL,all sectors,315901.9817,million kilowatt hours
+2024-10,US,U.S. Total,COM,commercial,120898.70457,million kilowatt hours
+2024-10,US,U.S. Total,IND,industrial,88353.89142,million kilowatt hours
+2024-10,US,U.S. Total,RES,residential,106083.27951,million kilowatt hours
+2024-10,US,U.S. Total,TRA,transportation,566.10619,million kilowatt hours
+2024-11,US,U.S. Total,ALL,all sectors,295796.04266,million kilowatt hours
+2024-11,US,U.S. Total,COM,commercial,112090.79487,million kilowatt hours
+2024-11,US,U.S. Total,IND,industrial,84368.99389,million kilowatt hours
+2024-11,US,U.S. Total,RES,residential,98781.89253,million kilowatt hours
+2024-11,US,U.S. Total,TRA,transportation,554.36138,million kilowatt hours
+2024-12,US,U.S. Total,ALL,all sectors,328187.69582,million kilowatt hours
+2024-12,US,U.S. Total,COM,commercial,117151.94094,million kilowatt hours
+2024-12,US,U.S. Total,IND,industrial,84927.23808,million kilowatt hours
+2024-12,US,U.S. Total,RES,residential,125503.72372,million kilowatt hours
+2024-12,US,U.S. Total,TRA,transportation,604.79308,million kilowatt hours
+2025-01,US,U.S. Total,ALL,all sectors,361981.07068,million kilowatt hours
+2025-01,US,U.S. Total,COM,commercial,124447.35304,million kilowatt hours
+2025-01,US,U.S. Total,IND,industrial,84519.20513,million kilowatt hours
+2025-01,US,U.S. Total,RES,residential,152328.58847,million kilowatt hours
+2025-01,US,U.S. Total,TRA,transportation,685.92404,million kilowatt hours
+2025-02,US,U.S. Total,ALL,all sectors,320561.01323,million kilowatt hours
+2025-02,US,U.S. Total,COM,commercial,113204.45431,million kilowatt hours
+2025-02,US,U.S. Total,IND,industrial,79228.86546,million kilowatt hours
+2025-02,US,U.S. Total,RES,residential,127517.28971,million kilowatt hours
+2025-02,US,U.S. Total,TRA,transportation,610.40375,million kilowatt hours
+2025-03,US,U.S. Total,ALL,all sectors,307241.25778,million kilowatt hours
+2025-03,US,U.S. Total,COM,commercial,114426.90423,million kilowatt hours
+2025-03,US,U.S. Total,IND,industrial,83210.47831,million kilowatt hours
+2025-03,US,U.S. Total,RES,residential,108968.72276,million kilowatt hours
+2025-03,US,U.S. Total,TRA,transportation,635.15248,million kilowatt hours
+2025-04,US,U.S. Total,ALL,all sectors,294846.37543,million kilowatt hours
+2025-04,US,U.S. Total,COM,commercial,112435.61527,million kilowatt hours
+2025-04,US,U.S. Total,IND,industrial,84535.89711,million kilowatt hours
+2025-04,US,U.S. Total,RES,residential,97306.29017,million kilowatt hours
+2025-04,US,U.S. Total,TRA,transportation,568.57288,million kilowatt hours
+2025-05,US,U.S. Total,ALL,all sectors,312488.73467,million kilowatt hours
+2025-05,US,U.S. Total,COM,commercial,119942.59622,million kilowatt hours
+2025-05,US,U.S. Total,IND,industrial,87134.43662,million kilowatt hours
+2025-05,US,U.S. Total,RES,residential,104855.86683,million kilowatt hours
+2025-05,US,U.S. Total,TRA,transportation,555.83501,million kilowatt hours
+2025-06,US,U.S. Total,ALL,all sectors,357100.3815,million kilowatt hours
+2025-06,US,U.S. Total,COM,commercial,130589.00785,million kilowatt hours
+2025-06,US,U.S. Total,IND,industrial,90022.3073,million kilowatt hours
+2025-06,US,U.S. Total,RES,residential,135822.11661,million kilowatt hours
+2025-06,US,U.S. Total,TRA,transportation,666.94974,million kilowatt hours
+2025-07,US,U.S. Total,ALL,all sectors,407629.71481,million kilowatt hours
+2025-07,US,U.S. Total,COM,commercial,144363.14666,million kilowatt hours
+2025-07,US,U.S. Total,IND,industrial,94651.30475,million kilowatt hours
+2025-07,US,U.S. Total,RES,residential,168010.64976,million kilowatt hours
+2025-07,US,U.S. Total,TRA,transportation,604.61364,million kilowatt hours
+2025-08,US,U.S. Total,ALL,all sectors,392630.89766,million kilowatt hours
+2025-08,US,U.S. Total,COM,commercial,142262.68351,million kilowatt hours
+2025-08,US,U.S. Total,IND,industrial,94539.72875,million kilowatt hours
+2025-08,US,U.S. Total,RES,residential,155203.86061,million kilowatt hours
+2025-08,US,U.S. Total,TRA,transportation,624.62478,million kilowatt hours
+2025-09,US,U.S. Total,ALL,all sectors,346202.16893,million kilowatt hours
+2025-09,US,U.S. Total,COM,commercial,129791.09404,million kilowatt hours
+2025-09,US,U.S. Total,IND,industrial,89041.1248,million kilowatt hours
+2025-09,US,U.S. Total,RES,residential,126777.50872,million kilowatt hours
+2025-09,US,U.S. Total,TRA,transportation,592.44137,million kilowatt hours
+2025-10,US,U.S. Total,ALL,all sectors,320588.00988,million kilowatt hours
+2025-10,US,U.S. Total,COM,commercial,124680.0319,million kilowatt hours
+2025-10,US,U.S. Total,IND,industrial,88004.45672,million kilowatt hours
+2025-10,US,U.S. Total,RES,residential,107313.18516,million kilowatt hours
+2025-10,US,U.S. Total,TRA,transportation,590.3361,million kilowatt hours
+2025-11,US,U.S. Total,ALL,all sectors,299021.80516,million kilowatt hours
+2025-11,US,U.S. Total,COM,commercial,114821.61454,million kilowatt hours
+2025-11,US,U.S. Total,IND,industrial,82422.32753,million kilowatt hours
+2025-11,US,U.S. Total,RES,residential,101222.40743,million kilowatt hours
+2025-11,US,U.S. Total,TRA,transportation,555.45566,million kilowatt hours
+2025-12,US,U.S. Total,ALL,all sectors,337715.72686,million kilowatt hours
+2025-12,US,U.S. Total,COM,commercial,122521.59204,million kilowatt hours
+2025-12,US,U.S. Total,IND,industrial,84906.7827,million kilowatt hours
+2025-12,US,U.S. Total,RES,residential,129666.74412,million kilowatt hours
+2025-12,US,U.S. Total,TRA,transportation,620.60801,million kilowatt hours
+2026-01,US,U.S. Total,ALL,all sectors,355940.17295,million kilowatt hours
+2026-01,US,U.S. Total,COM,commercial,126119.66184,million kilowatt hours
+2026-01,US,U.S. Total,IND,industrial,84042.7216,million kilowatt hours
+2026-01,US,U.S. Total,RES,residential,145115.01144,million kilowatt hours
+2026-01,US,U.S. Total,TRA,transportation,662.77807,million kilowatt hours
+2026-02,US,U.S. Total,ALL,all sectors,323034.52279,million kilowatt hours
+2026-02,US,U.S. Total,COM,commercial,115691.49597,million kilowatt hours
+2026-02,US,U.S. Total,IND,industrial,78653.492,million kilowatt hours
+2026-02,US,U.S. Total,RES,residential,128054.68195,million kilowatt hours
+2026-02,US,U.S. Total,TRA,transportation,634.85287,million kilowatt hours
