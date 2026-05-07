@@ -13,6 +13,23 @@ st.set_page_config(
 
 
 # -----------------------------
+# Color palette
+# -----------------------------
+
+SERIES_COLORS = {
+    "residential": "#1f77b4",     # blue
+    "commercial": "#ff7f0e",      # orange
+    "industrial": "#2ca02c",      # green
+    "transportation": "#d62728",  # red
+    "total": "#9467bd",           # purple
+}
+
+FORECAST_COLOR = "#000000"
+INTERVAL_FILL_COLOR = "rgba(0, 0, 0, 0.12)"
+ZERO_LINE_COLOR = "#333333"
+
+
+# -----------------------------
 # Load data
 # -----------------------------
 
@@ -84,6 +101,8 @@ forecast_horizon = st.sidebar.slider(
     step=12
 )
 
+series_color = SERIES_COLORS.get(selected_series, "#1f77b4")
+
 
 # -----------------------------
 # Filter data
@@ -149,16 +168,11 @@ fig.add_trace(
         x=historical_series["date"],
         y=historical_series["actual"],
         mode="lines",
-        name="Historical actual"
-    )
-)
-
-fig.add_trace(
-    go.Scatter(
-        x=forecast_series["date"],
-        y=forecast_series["forecast"],
-        mode="lines",
-        name="Forecast"
+        name="Historical actual",
+        line=dict(
+            color=series_color,
+            width=2
+        )
     )
 )
 
@@ -168,8 +182,9 @@ fig.add_trace(
         y=forecast_series["upper_95"],
         mode="lines",
         name="Upper 95% interval",
-        line=dict(width=0),
-        showlegend=False
+        line=dict(color="rgba(0, 0, 0, 0)"),
+        showlegend=False,
+        hoverinfo="skip"
     )
 )
 
@@ -178,16 +193,29 @@ fig.add_trace(
         x=forecast_series["date"],
         y=forecast_series["lower_95"],
         mode="lines",
-        name="Lower 95% interval",
+        name="95% prediction interval",
+        line=dict(color="rgba(0, 0, 0, 0)"),
         fill="tonexty",
-        line=dict(width=0),
-        showlegend=True
+        fillcolor=INTERVAL_FILL_COLOR
+    )
+)
+
+fig.add_trace(
+    go.Scatter(
+        x=forecast_series["date"],
+        y=forecast_series["forecast"],
+        mode="lines",
+        name="Forecast",
+        line=dict(
+            color=FORECAST_COLOR,
+            width=2
+        )
     )
 )
 
 fig.update_layout(
     xaxis_title="Date",
-    yaxis_title="Electricity demand",
+    yaxis_title="Electricity demand, thousand MWh",
     hovermode="x unified",
     legend_title="Series"
 )
@@ -218,9 +246,25 @@ forecast_display = forecast_series[
     ]
 ].copy()
 
+forecast_display["date"] = forecast_display["date"].dt.strftime("%Y-%m-%d")
+
+forecast_display = forecast_display.rename(
+    columns={
+        "date": "Date",
+        "series": "Series",
+        "model_family": "Model Family",
+        "model": "Model",
+        "forecast": "Forecast",
+        "lower_95": "Lower 95%",
+        "upper_95": "Upper 95%",
+        "forecast_horizon_month": "Forecast Horizon Month"
+    }
+)
+
 st.dataframe(
     forecast_display,
-    use_container_width=True
+    use_container_width=True,
+    hide_index=True
 )
 
 
@@ -242,10 +286,27 @@ if not diagnostic_row.empty:
         st.metric("Residual std.", round(diag["residual_std"], 3))
 
     with col3:
-        st.metric("Ljung-Box p-value, lag 12", round(diag["ljung_box_pvalue_lag_12"], 4))
+        if "ljung_box_pvalue_lag_12" in diagnostic_row.columns:
+            st.metric(
+                "Ljung-Box p-value, lag 12",
+                round(diag["ljung_box_pvalue_lag_12"], 4)
+            )
+        else:
+            st.metric("Ljung-Box p-value, lag 12", "N/A")
 
     with col4:
-        st.metric("Ljung-Box p-value, lag 24", round(diag["ljung_box_pvalue_lag_24"], 4))
+        if "ljung_box_pvalue_lag_23" in diagnostic_row.columns:
+            st.metric(
+                "Ljung-Box p-value, lag 23",
+                round(diag["ljung_box_pvalue_lag_23"], 4)
+            )
+        elif "ljung_box_pvalue_lag_24" in diagnostic_row.columns:
+            st.metric(
+                "Ljung-Box p-value, lag 24",
+                round(diag["ljung_box_pvalue_lag_24"], 4)
+            )
+        else:
+            st.metric("Ljung-Box p-value", "N/A")
 
     st.caption(diag["diagnostic_note"])
 else:
@@ -259,13 +320,21 @@ fig_resid.add_trace(
         x=residual_series["date"],
         y=residual_series["error"],
         mode="lines+markers",
-        name="Residual"
+        name="Residual",
+        line=dict(
+            color=series_color,
+            width=2
+        ),
+        marker=dict(
+            color=series_color
+        )
     )
 )
 
 fig_resid.add_hline(
     y=0,
-    line_dash="dash"
+    line_dash="dash",
+    line_color=ZERO_LINE_COLOR
 )
 
 fig_resid.update_layout(
@@ -299,9 +368,20 @@ if not comparison_series.empty:
 
     comparison_display = comparison_series[display_cols].copy()
 
+    comparison_display = comparison_display.sort_values("RMSE")
+
+    comparison_display = comparison_display.rename(
+        columns={
+            "series": "Series",
+            "model_family": "Model Family",
+            "model": "Model"
+        }
+    )
+
     st.dataframe(
-        comparison_display.sort_values("RMSE"),
-        use_container_width=True
+        comparison_display,
+        use_container_width=True,
+        hide_index=True
     )
 else:
     st.warning("No model comparison data is available for this series.")
@@ -315,7 +395,8 @@ st.subheader("How to Read This Dashboard")
 
 st.markdown(
     """
-    The historical line shows observed electricity demand. The forecast line extends
+    The historical line shows observed electricity demand. The color of this line matches
+    the color used for the selected series in the notebook. The black forecast line extends
     the selected model into the future for the number of months chosen in the sidebar.
     The shaded band shows the 95% prediction interval, which gives a practical sense
     of forecast uncertainty.
